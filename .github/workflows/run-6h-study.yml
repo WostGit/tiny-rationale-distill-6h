@@ -1,0 +1,97 @@
+name: run-6h-study
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  run-study-shard:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run shard
+        env:
+          SHARD: ${{ matrix.shard }}
+        run: |
+          python - <<'PY'
+          import itertools, os, subprocess, sys
+          tasks=['arithmetic','symbolic']
+          formats=['answer_only','short_rationale','full_rationale']
+          budgets=[16,32,64,128]
+          seeds=[0,1,2,3,4]
+          conds=list(itertools.product(tasks,formats,budgets,seeds))
+          shard=int(os.environ['SHARD'])
+          subset=[c for i,c in enumerate(conds) if i % 6 == shard]
+          print(f"Shard {shard} running {len(subset)} conditions")
+          for t,f,b,s in subset:
+              train=[sys.executable,'scripts/train_tiny_distill.py','--task',t,'--supervision-format',f,'--budget',str(b),'--seed',str(s),'--epochs','3','--resume']
+              evalc=[sys.executable,'scripts/eval_tiny_distill.py','--task',t,'--supervision-format',f,'--budget',str(b),'--seed',str(s),'--resume']
+              subprocess.run(train, check=True)
+              subprocess.run(evalc, check=True)
+          PY
+      - name: Upload shard artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-shard-${{ matrix.shard }}
+          path: outputs/metrics
+
+  aggregate:
+    needs: run-study-shard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          path: shard_artifacts
+      - name: Merge and summarize
+        run: |
+          mkdir -p outputs/metrics
+          find shard_artifacts -type f -name '*.json' -o -name '*.md' -o -name '*.png' | while read f; do
+            # preserve condition folder names when possible
+            rel=$(echo "$f" | sed 's#.*metrics/##')
+            mkdir -p "outputs/metrics/$(dirname "$rel")"
+            cp "$f" "outputs/metrics/$rel" || true
+          done
+          python scripts/run_6h_study.py --resume --max-conditions 0 || true
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import pandas as pd
+          rows=[]
+          for d in Path('outputs/metrics').glob('*__*'):
+              t=d/'train_metrics.json'; e=d/'eval_metrics.json'
+              if t.exists() and e.exists():
+                  tr=json.loads(t.read_text()); ev=json.loads(e.read_text()); rows.append({**tr,**ev})
+          if rows:
+              df=pd.DataFrame(rows)
+              agg=(df.groupby(['task','supervision_format','budget'],as_index=False)
+                    .agg(exact_match_mean=('exact_match','mean'),exact_match_std=('exact_match','std'),seeds=('seed','count'))
+                    .fillna(0.0))
+              agg.to_csv('outputs/metrics/summary_by_budget.csv',index=False)
+              Path('outputs/metrics/comparison_table.md').write_text('| task | format | budget | exact_match_mean | exact_match_std | seeds |\n|---|---|---:|---:|---:|---:|\n' + '\n'.join([f"| {r.task} | {r.supervision_format} | {int(r.budget)} | {r.exact_match_mean:.4f} | {r.exact_match_std:.4f} | {int(r.seeds)} |" for _,r in agg.iterrows()]))
+          PY
+          python scripts/contamination_audit.py --output-root outputs/metrics
+      - name: Upload final metrics
+        uses: actions/upload-artifact@v4
+        with:
+          name: outputs-metrics-final
+          path: outputs/metrics

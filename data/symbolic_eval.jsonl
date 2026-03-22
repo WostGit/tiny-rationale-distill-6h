@@ -1,0 +1,160 @@
+{"id": 0, "input": "D D F D G C", "target": "D H E G E E"}
+{"id": 1, "input": "E H H H D G G", "target": "H H E A A A F"}
+{"id": 2, "input": "D E C F", "target": "G D F E"}
+{"id": 3, "input": "E F G H", "target": "A H G F"}
+{"id": 4, "input": "H F G E H G", "target": "H A F H G A"}
+{"id": 5, "input": "H F D C E E C", "target": "D F F D E G A"}
+{"id": 6, "input": "H F H C H D G", "target": "H E A D A G A"}
+{"id": 7, "input": "E D C D", "target": "E D E F"}
+{"id": 8, "input": "C F F G", "target": "H G G D"}
+{"id": 9, "input": "G D E G F", "target": "G H F E H"}
+{"id": 10, "input": "F G E C F", "target": "G D F H G"}
+{"id": 11, "input": "H F F D F E C", "target": "D F G E G G A"}
+{"id": 12, "input": "F F E G", "target": "H F G G"}
+{"id": 13, "input": "C C D E D", "target": "E F E D D"}
+{"id": 14, "input": "F E F H", "target": "A G F G"}
+{"id": 15, "input": "C C G F", "target": "G H D D"}
+{"id": 16, "input": "G F H E D F E", "target": "F G E F A G H"}
+{"id": 17, "input": "H G G D H G", "target": "H A E H H A"}
+{"id": 18, "input": "F G D H", "target": "A E H G"}
+{"id": 20, "input": "H G F D E D F", "target": "G E F E G H A"}
+{"id": 21, "input": "H E F C H", "target": "A D G F A"}
+{"id": 22, "input": "H C C C", "target": "D D D A"}
+{"id": 23, "input": "D E D C C F C", "target": "D G D D E F E"}
+{"id": 24, "input": "H H H C H C C", "target": "D D A D A A A"}
+{"id": 25, "input": "F H F H", "target": "A G A G"}
+{"id": 26, "input": "C E D C", "target": "D E F D"}
+{"id": 27, "input": "D H C C D", "target": "E D D A E"}
+{"id": 28, "input": "D G H D H E", "target": "F A E A H E"}
+{"id": 29, "input": "D F F C D C D", "target": "E D E D G G E"}
+{"id": 30, "input": "D E C E E", "target": "F F D F E"}
+{"id": 31, "input": "E F D H D C", "target": "D E A E G F"}
+{"id": 32, "input": "E F H F H", "target": "A G A G F"}
+{"id": 33, "input": "H H H F", "target": "G A A A"}
+{"id": 34, "input": "G F C E E D D", "target": "E E F F D G H"}
+{"id": 35, "input": "E F E F", "target": "G F G F"}
+{"id": 36, "input": "E D D C H C", "target": "D A D E E F"}
+{"id": 37, "input": "C D F E G E G", "target": "H F H F G E D"}
+{"id": 38, "input": "G F F E C C", "target": "D D F G G H"}
+{"id": 39, "input": "H C E F", "target": "G F D A"}
+{"id": 40, "input": "H C E D F", "target": "G E F D A"}
+{"id": 41, "input": "E H H E H H", "target": "A A F A A F"}
+{"id": 42, "input": "G C G G", "target": "H H D H"}
+{"id": 43, "input": "C E G H", "target": "A H F D"}
+{"id": 44, "input": "D E D E", "target": "F E F E"}
+{"id": 45, "input": "F E D D G", "target": "H E E F G"}
+{"id": 46, "input": "G D D C G H", "target": "A H D E E H"}
+{"id": 47, "input": "C G C D", "target": "E D H D"}
+{"id": 48, "input": "D C C H D", "target": "E A D D E"}
+{"id": 49, "input": "E D F E G C", "target": "D H F G E F"}
+{"id": 50, "input": "D E G H", "target": "A H F E"}
+{"id": 51, "input": "D H G F G", "target": "H G H A E"}
+{"id": 52, "input": "G C E G D", "target": "E H F D H"}
+{"id": 53, "input": "E D G C", "target": "D H E F"}
+{"id": 54, "input": "G H F G F H G", "target": "H A G H G A H"}
+{"id": 55, "input": "E F D E", "target": "F E G F"}
+{"id": 56, "input": "F D F G H E F", "target": "G F A H G E G"}
+{"id": 57, "input": "H D G G F C", "target": "D G H H E A"}
+{"id": 58, "input": "H C F C H E", "target": "F A D G D A"}
+{"id": 59, "input": "F F G C", "target": "D H G G"}
+{"id": 60, "input": "F C G H F E D", "target": "E F G A H D G"}
+{"id": 61, "input": "H C E G H C", "target": "D A H F D A"}
+{"id": 62, "input": "E D C H H D C", "target": "D E A A D E F"}
+{"id": 63, "input": "C D C G E H G", "target": "H A F H D E D"}
+{"id": 64, "input": "D C F H G E", "target": "F H A G D E"}
+{"id": 65, "input": "D E E F", "target": "G F F E"}
+{"id": 66, "input": "D F F H", "target": "A G G E"}
+{"id": 67, "input": "C H D G G D F", "target": "G E H H E A D"}
+{"id": 68, "input": "G E C D F D F", "target": "G E G E D F H"}
+{"id": 69, "input": "E G G C G D F", "target": "G E H D H H F"}
+{"id": 70, "input": "G G C H F", "target": "G A D H H"}
+{"id": 71, "input": "E F E E D", "target": "E F F G F"}
+{"id": 72, "input": "H F F F", "target": "G G G A"}
+{"id": 73, "input": "G C C E D C", "target": "D E F D D H"}
+{"id": 74, "input": "E H F D E G H", "target": "A H F E G A F"}
+{"id": 75, "input": "C E F D E", "target": "F E G F D"}
+{"id": 76, "input": "E F D E E H E", "target": "F A F F E G F"}
+{"id": 77, "input": "F G G F F E", "target": "F G G H H G"}
+{"id": 78, "input": "D F E H D C H", "target": "A D E A F G E"}
+{"id": 79, "input": "C H E H C E", "target": "F D A F A D"}
+{"id": 80, "input": "E D D E G H E", "target": "F A H F E E F"}
+{"id": 81, "input": "H G F H E D", "target": "E F A G H A"}
+{"id": 82, "input": "H F C F E G", "target": "H F G D G A"}
+{"id": 83, "input": "D C D G F", "target": "G H E D E"}
+{"id": 84, "input": "C F F G C E E", "target": "F F D H G G D"}
+{"id": 85, "input": "C F G F", "target": "G H G D"}
+{"id": 86, "input": "E G E G G", "target": "H H F H F"}
+{"id": 87, "input": "D D H H H D F", "target": "G E A A A E E"}
+{"id": 88, "input": "H D G D", "target": "E H E A"}
+{"id": 89, "input": "F E D D D D", "target": "E E E E F G"}
+{"id": 90, "input": "D H H G G F", "target": "G H H A A E"}
+{"id": 91, "input": "H F H F D H H", "target": "A A E G A G A"}
+{"id": 92, "input": "E E C E E C", "target": "D F F D F F"}
+{"id": 93, "input": "C E G C", "target": "D H F D"}
+{"id": 94, "input": "F E C F D G C", "target": "D H E G D F G"}
+{"id": 95, "input": "F E H G H", "target": "A H A F G"}
+{"id": 96, "input": "H H G E F", "target": "G F H A A"}
+{"id": 97, "input": "C F H C G G C", "target": "D H H D A G D"}
+{"id": 98, "input": "D H G C C H F", "target": "G A D D H A E"}
+{"id": 99, "input": "D E H D E", "target": "F E A F E"}
+{"id": 100, "input": "C E G C F C", "target": "D G D H F D"}
+{"id": 101, "input": "C D C H", "target": "A D E D"}
+{"id": 102, "input": "F H F G H G", "target": "H A H G A G"}
+{"id": 103, "input": "E C C D H H", "target": "A A E D D F"}
+{"id": 104, "input": "E H G C C D G", "target": "H E D D H A F"}
+{"id": 105, "input": "G C H E H E H", "target": "A F A F A D H"}
+{"id": 106, "input": "H G G H C", "target": "D A H H A"}
+{"id": 107, "input": "G G C E", "target": "F D H H"}
+{"id": 109, "input": "G C E H G", "target": "H A F D H"}
+{"id": 110, "input": "G C H E E G G", "target": "H H F F A D H"}
+{"id": 111, "input": "E G G C G C", "target": "D H D H H F"}
+{"id": 112, "input": "E G F D", "target": "E G H F"}
+{"id": 113, "input": "E F G C H", "target": "A D H G F"}
+{"id": 114, "input": "C D C E E G", "target": "H F F D E D"}
+{"id": 115, "input": "D E C D F G G", "target": "H H G E D F E"}
+{"id": 116, "input": "G D F C", "target": "D G E H"}
+{"id": 117, "input": "E D G H C D E", "target": "F E D A H E F"}
+{"id": 118, "input": "H G F E E F", "target": "G F F G H A"}
+{"id": 119, "input": "G C E G", "target": "H F D H"}
+{"id": 120, "input": "C E G G E", "target": "F H H F D"}
+{"id": 121, "input": "F E D G D H H", "target": "A A E H E F G"}
+{"id": 122, "input": "G D E G", "target": "H F E H"}
+{"id": 123, "input": "D D G G D E F", "target": "G F E H H E E"}
+{"id": 124, "input": "C E E E", "target": "F F F D"}
+{"id": 125, "input": "G D E H F D H", "target": "A E G A F E H"}
+{"id": 126, "input": "G G E F D F", "target": "G E G F H H"}
+{"id": 127, "input": "F D D G", "target": "H E E G"}
+{"id": 128, "input": "H D G G E E", "target": "F F H H E A"}
+{"id": 129, "input": "D C F C F C H", "target": "A D G D G D E"}
+{"id": 130, "input": "D E E F", "target": "G F F E"}
+{"id": 131, "input": "E H H F E", "target": "F G A A F"}
+{"id": 132, "input": "F F D G D C C", "target": "D D E H E G G"}
+{"id": 133, "input": "G E G E D", "target": "E F H F H"}
+{"id": 134, "input": "H F H C E F F", "target": "G G F D A G A"}
+{"id": 135, "input": "F E G E C", "target": "D F H F G"}
+{"id": 136, "input": "E H G D F G G", "target": "H H G E H A F"}
+{"id": 137, "input": "H E E F E", "target": "F G F F A"}
+{"id": 138, "input": "F G C D C", "target": "D E D H G"}
+{"id": 139, "input": "G H D E F", "target": "G F E A H"}
+{"id": 140, "input": "E F C H", "target": "A D G F"}
+{"id": 141, "input": "F H G F", "target": "G H A G"}
+{"id": 142, "input": "C H F G", "target": "H G A D"}
+{"id": 143, "input": "H H G E D", "target": "E F H A A"}
+{"id": 144, "input": "F E F F", "target": "G G F G"}
+{"id": 145, "input": "H D C F H G G", "target": "H H A G D E A"}
+{"id": 146, "input": "C C F E E D", "target": "E F F G D D"}
+{"id": 147, "input": "F H F D E", "target": "F E G A G"}
+{"id": 148, "input": "D F F F G E C", "target": "D F H G G G E"}
+{"id": 149, "input": "G C D F D E", "target": "F E G E D H"}
+{"id": 150, "input": "C C E C D F E", "target": "F G E D F D D"}
+{"id": 151, "input": "D F H F", "target": "G A G E"}
+{"id": 152, "input": "D D C E C", "target": "D F D E E"}
+{"id": 153, "input": "G E D H E", "target": "F A E F H"}
+{"id": 154, "input": "G E C F", "target": "G D F H"}
+{"id": 155, "input": "F C D C H", "target": "A D E D G"}
+{"id": 156, "input": "G H G H", "target": "A H A H"}
+{"id": 157, "input": "G C E H", "target": "A F D H"}
+{"id": 158, "input": "D D D F", "target": "G E E E"}
+{"id": 159, "input": "F D G C D F C", "target": "D G E D H E G"}
+{"id": 160, "input": "G E D C D G C", "target": "D H E D E F H"}
+{"id": 161, "input": "D H F H H D E", "target": "F E A A G A E"}
