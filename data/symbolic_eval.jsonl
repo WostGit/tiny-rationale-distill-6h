@@ -1,0 +1,140 @@
+{"answer": "g h i j k k", "id": "symbolic-eval-0", "input": "Rule: reverse the token sequence. Input: k k j i h g"}
+{"answer": "h h g j h", "id": "symbolic-eval-1", "input": "Rule: reverse the token sequence. Input: h j g h h"}
+{"answer": "j g f g i", "id": "symbolic-eval-2", "input": "Rule: reverse the token sequence. Input: i g f g j"}
+{"answer": "k i i j k", "id": "symbolic-eval-3", "input": "Rule: reverse the token sequence. Input: k j i i k"}
+{"answer": "k k j f f f", "id": "symbolic-eval-4", "input": "Rule: reverse the token sequence. Input: f f f j k k"}
+{"answer": "i f i h k", "id": "symbolic-eval-5", "input": "Rule: reverse the token sequence. Input: k h i f i"}
+{"answer": "f j i h h j k", "id": "symbolic-eval-6", "input": "Rule: reverse the token sequence. Input: k j h h i j f"}
+{"answer": "i h g h j h g", "id": "symbolic-eval-7", "input": "Rule: reverse the token sequence. Input: g h j h g h i"}
+{"answer": "g i j i i h", "id": "symbolic-eval-8", "input": "Rule: reverse the token sequence. Input: h i i j i g"}
+{"answer": "j g i g f", "id": "symbolic-eval-9", "input": "Rule: reverse the token sequence. Input: f g i g j"}
+{"answer": "h f g j k g", "id": "symbolic-eval-10", "input": "Rule: reverse the token sequence. Input: g k j g f h"}
+{"answer": "j k f h k", "id": "symbolic-eval-11", "input": "Rule: reverse the token sequence. Input: k h f k j"}
+{"answer": "h j j h i j k", "id": "symbolic-eval-12", "input": "Rule: reverse the token sequence. Input: k j i h j j h"}
+{"answer": "k j j f g", "id": "symbolic-eval-13", "input": "Rule: reverse the token sequence. Input: g f j j k"}
+{"answer": "j h g i h j", "id": "symbolic-eval-14", "input": "Rule: reverse the token sequence. Input: j h i g h j"}
+{"answer": "g k i j f", "id": "symbolic-eval-15", "input": "Rule: reverse the token sequence. Input: f j i k g"}
+{"answer": "k j f f f g", "id": "symbolic-eval-16", "input": "Rule: reverse the token sequence. Input: g f f f j k"}
+{"answer": "g i g k g k", "id": "symbolic-eval-17", "input": "Rule: reverse the token sequence. Input: k g k g i g"}
+{"answer": "k k g k h j", "id": "symbolic-eval-18", "input": "Rule: reverse the token sequence. Input: j h k g k k"}
+{"answer": "k g i f f k j", "id": "symbolic-eval-19", "input": "Rule: reverse the token sequence. Input: j k f f i g k"}
+{"answer": "k h i g k k", "id": "symbolic-eval-20", "input": "Rule: reverse the token sequence. Input: k k g i h k"}
+{"answer": "k i f i k g h", "id": "symbolic-eval-21", "input": "Rule: reverse the token sequence. Input: h g k i f i k"}
+{"answer": "h k h k f j h", "id": "symbolic-eval-22", "input": "Rule: reverse the token sequence. Input: h j f k h k h"}
+{"answer": "k h g h g i i", "id": "symbolic-eval-23", "input": "Rule: reverse the token sequence. Input: i i g h g h k"}
+{"answer": "i h g h k", "id": "symbolic-eval-24", "input": "Rule: reverse the token sequence. Input: k h g h i"}
+{"answer": "k i h j h", "id": "symbolic-eval-25", "input": "Rule: reverse the token sequence. Input: h j h i k"}
+{"answer": "i k h i i", "id": "symbolic-eval-26", "input": "Rule: reverse the token sequence. Input: i i h k i"}
+{"answer": "j f f f i j f", "id": "symbolic-eval-27", "input": "Rule: reverse the token sequence. Input: f j i f f f j"}
+{"answer": "k f f g f i k", "id": "symbolic-eval-28", "input": "Rule: reverse the token sequence. Input: k i f g f f k"}
+{"answer": "f h j i i f", "id": "symbolic-eval-29", "input": "Rule: reverse the token sequence. Input: f i i j h f"}
+{"answer": "k i h g j", "id": "symbolic-eval-30", "input": "Rule: reverse the token sequence. Input: j g h i k"}
+{"answer": "f h k h j", "id": "symbolic-eval-31", "input": "Rule: reverse the token sequence. Input: j h k h f"}
+{"answer": "i j j g j g h", "id": "symbolic-eval-32", "input": "Rule: reverse the token sequence. Input: h g j g j j i"}
+{"answer": "k k j g g", "id": "symbolic-eval-33", "input": "Rule: reverse the token sequence. Input: g g j k k"}
+{"answer": "j j j j h", "id": "symbolic-eval-34", "input": "Rule: reverse the token sequence. Input: h j j j j"}
+{"answer": "f j i h h g", "id": "symbolic-eval-35", "input": "Rule: reverse the token sequence. Input: g h h i j f"}
+{"answer": "g h g f h f", "id": "symbolic-eval-36", "input": "Rule: reverse the token sequence. Input: f h f g h g"}
+{"answer": "g h f j k", "id": "symbolic-eval-37", "input": "Rule: reverse the token sequence. Input: k j f h g"}
+{"answer": "h f k j j", "id": "symbolic-eval-38", "input": "Rule: reverse the token sequence. Input: j j k f h"}
+{"answer": "i f g g f", "id": "symbolic-eval-39", "input": "Rule: reverse the token sequence. Input: f g g f i"}
+{"answer": "k j f k h", "id": "symbolic-eval-40", "input": "Rule: reverse the token sequence. Input: h k f j k"}
+{"answer": "j h i k k", "id": "symbolic-eval-41", "input": "Rule: reverse the token sequence. Input: k k i h j"}
+{"answer": "j g i h j", "id": "symbolic-eval-42", "input": "Rule: reverse the token sequence. Input: j h i g j"}
+{"answer": "i g k h h", "id": "symbolic-eval-43", "input": "Rule: reverse the token sequence. Input: h h k g i"}
+{"answer": "f i g f j", "id": "symbolic-eval-44", "input": "Rule: reverse the token sequence. Input: j f g i f"}
+{"answer": "i k h g h f f", "id": "symbolic-eval-45", "input": "Rule: reverse the token sequence. Input: f f h g h k i"}
+{"answer": "g j k h g h", "id": "symbolic-eval-46", "input": "Rule: reverse the token sequence. Input: h g h k j g"}
+{"answer": "f k i f j h k", "id": "symbolic-eval-47", "input": "Rule: reverse the token sequence. Input: k h j f i k f"}
+{"answer": "i f j h f k", "id": "symbolic-eval-48", "input": "Rule: reverse the token sequence. Input: k f h j f i"}
+{"answer": "g f k j k h i", "id": "symbolic-eval-49", "input": "Rule: reverse the token sequence. Input: i h k j k f g"}
+{"answer": "k i i k i f", "id": "symbolic-eval-50", "input": "Rule: reverse the token sequence. Input: f i k i i k"}
+{"answer": "h f k j h g", "id": "symbolic-eval-51", "input": "Rule: reverse the token sequence. Input: g h j k f h"}
+{"answer": "g j h j h g", "id": "symbolic-eval-52", "input": "Rule: reverse the token sequence. Input: g h j h j g"}
+{"answer": "k g g j h", "id": "symbolic-eval-53", "input": "Rule: reverse the token sequence. Input: h j g g k"}
+{"answer": "h f f j k", "id": "symbolic-eval-54", "input": "Rule: reverse the token sequence. Input: k j f f h"}
+{"answer": "h i j f k g j", "id": "symbolic-eval-55", "input": "Rule: reverse the token sequence. Input: j g k f j i h"}
+{"answer": "i k j i i g h", "id": "symbolic-eval-56", "input": "Rule: reverse the token sequence. Input: h g i i j k i"}
+{"answer": "f h f h f g", "id": "symbolic-eval-57", "input": "Rule: reverse the token sequence. Input: g f h f h f"}
+{"answer": "f j j i j", "id": "symbolic-eval-58", "input": "Rule: reverse the token sequence. Input: j i j j f"}
+{"answer": "h g i g j g", "id": "symbolic-eval-59", "input": "Rule: reverse the token sequence. Input: g j g i g h"}
+{"answer": "f i f g k", "id": "symbolic-eval-60", "input": "Rule: reverse the token sequence. Input: k g f i f"}
+{"answer": "g j g h i h", "id": "symbolic-eval-61", "input": "Rule: reverse the token sequence. Input: h i h g j g"}
+{"answer": "k f g j h", "id": "symbolic-eval-62", "input": "Rule: reverse the token sequence. Input: h j g f k"}
+{"answer": "h k j i g", "id": "symbolic-eval-63", "input": "Rule: reverse the token sequence. Input: g i j k h"}
+{"answer": "g j k k j i", "id": "symbolic-eval-64", "input": "Rule: reverse the token sequence. Input: i j k k j g"}
+{"answer": "h h g g j h", "id": "symbolic-eval-65", "input": "Rule: reverse the token sequence. Input: h j g g h h"}
+{"answer": "j g j g f f j", "id": "symbolic-eval-66", "input": "Rule: reverse the token sequence. Input: j f f g j g j"}
+{"answer": "j h k h j h", "id": "symbolic-eval-67", "input": "Rule: reverse the token sequence. Input: h j h k h j"}
+{"answer": "h j f g i j i", "id": "symbolic-eval-68", "input": "Rule: reverse the token sequence. Input: i j i g f j h"}
+{"answer": "g i h j i", "id": "symbolic-eval-69", "input": "Rule: reverse the token sequence. Input: i j h i g"}
+{"answer": "j j h i h j", "id": "symbolic-eval-70", "input": "Rule: reverse the token sequence. Input: j h i h j j"}
+{"answer": "k h i f k k", "id": "symbolic-eval-71", "input": "Rule: reverse the token sequence. Input: k k f i h k"}
+{"answer": "f g i j k i j", "id": "symbolic-eval-72", "input": "Rule: reverse the token sequence. Input: j i k j i g f"}
+{"answer": "k h f j g f j", "id": "symbolic-eval-73", "input": "Rule: reverse the token sequence. Input: j f g j f h k"}
+{"answer": "k g g g k", "id": "symbolic-eval-74", "input": "Rule: reverse the token sequence. Input: k g g g k"}
+{"answer": "j i f g f", "id": "symbolic-eval-75", "input": "Rule: reverse the token sequence. Input: f g f i j"}
+{"answer": "g f i h h k", "id": "symbolic-eval-76", "input": "Rule: reverse the token sequence. Input: k h h i f g"}
+{"answer": "h i k g j i", "id": "symbolic-eval-77", "input": "Rule: reverse the token sequence. Input: i j g k i h"}
+{"answer": "k h f g k k f", "id": "symbolic-eval-78", "input": "Rule: reverse the token sequence. Input: f k k g f h k"}
+{"answer": "g j j i j i", "id": "symbolic-eval-79", "input": "Rule: reverse the token sequence. Input: i j i j j g"}
+{"answer": "f f h i g", "id": "symbolic-eval-80", "input": "Rule: reverse the token sequence. Input: g i h f f"}
+{"answer": "j j j g f k", "id": "symbolic-eval-81", "input": "Rule: reverse the token sequence. Input: k f g j j j"}
+{"answer": "f h j g f", "id": "symbolic-eval-82", "input": "Rule: reverse the token sequence. Input: f g j h f"}
+{"answer": "j g k j i j g", "id": "symbolic-eval-83", "input": "Rule: reverse the token sequence. Input: g j i j k g j"}
+{"answer": "k f i h h i i", "id": "symbolic-eval-84", "input": "Rule: reverse the token sequence. Input: i i h h i f k"}
+{"answer": "k f f k j f i", "id": "symbolic-eval-85", "input": "Rule: reverse the token sequence. Input: i f j k f f k"}
+{"answer": "f i j j h", "id": "symbolic-eval-86", "input": "Rule: reverse the token sequence. Input: h j j i f"}
+{"answer": "i i h k k", "id": "symbolic-eval-87", "input": "Rule: reverse the token sequence. Input: k k h i i"}
+{"answer": "i j j h i h f", "id": "symbolic-eval-88", "input": "Rule: reverse the token sequence. Input: f h i h j j i"}
+{"answer": "g h f j h j", "id": "symbolic-eval-89", "input": "Rule: reverse the token sequence. Input: j h j f h g"}
+{"answer": "i i g j k h h", "id": "symbolic-eval-90", "input": "Rule: reverse the token sequence. Input: h h k j g i i"}
+{"answer": "g g j h j", "id": "symbolic-eval-91", "input": "Rule: reverse the token sequence. Input: j h j g g"}
+{"answer": "g i f i h", "id": "symbolic-eval-92", "input": "Rule: reverse the token sequence. Input: h i f i g"}
+{"answer": "j g j i h k", "id": "symbolic-eval-93", "input": "Rule: reverse the token sequence. Input: k h i j g j"}
+{"answer": "i j k f k h g", "id": "symbolic-eval-94", "input": "Rule: reverse the token sequence. Input: g h k f k j i"}
+{"answer": "g k i f j j j", "id": "symbolic-eval-95", "input": "Rule: reverse the token sequence. Input: j j j f i k g"}
+{"answer": "i i k j i j", "id": "symbolic-eval-96", "input": "Rule: reverse the token sequence. Input: j i j k i i"}
+{"answer": "j i f f h f", "id": "symbolic-eval-97", "input": "Rule: reverse the token sequence. Input: f h f f i j"}
+{"answer": "i h k j i k g", "id": "symbolic-eval-98", "input": "Rule: reverse the token sequence. Input: g k i j k h i"}
+{"answer": "i f j g g f j", "id": "symbolic-eval-99", "input": "Rule: reverse the token sequence. Input: j f g g j f i"}
+{"answer": "f j g h g k", "id": "symbolic-eval-100", "input": "Rule: reverse the token sequence. Input: k g h g j f"}
+{"answer": "i h f j k h h", "id": "symbolic-eval-101", "input": "Rule: reverse the token sequence. Input: h h k j f h i"}
+{"answer": "k j g g k i i", "id": "symbolic-eval-102", "input": "Rule: reverse the token sequence. Input: i i k g g j k"}
+{"answer": "k f j g f", "id": "symbolic-eval-103", "input": "Rule: reverse the token sequence. Input: f g j f k"}
+{"answer": "j h g j f k h", "id": "symbolic-eval-104", "input": "Rule: reverse the token sequence. Input: h k f j g h j"}
+{"answer": "g j k i g f", "id": "symbolic-eval-105", "input": "Rule: reverse the token sequence. Input: f g i k j g"}
+{"answer": "g j k h i", "id": "symbolic-eval-106", "input": "Rule: reverse the token sequence. Input: i h k j g"}
+{"answer": "h g g j j", "id": "symbolic-eval-107", "input": "Rule: reverse the token sequence. Input: j j g g h"}
+{"answer": "h i h j f g", "id": "symbolic-eval-108", "input": "Rule: reverse the token sequence. Input: g f j h i h"}
+{"answer": "h g g i i f", "id": "symbolic-eval-109", "input": "Rule: reverse the token sequence. Input: f i i g g h"}
+{"answer": "i k k g g j f", "id": "symbolic-eval-110", "input": "Rule: reverse the token sequence. Input: f j g g k k i"}
+{"answer": "h g k g g h", "id": "symbolic-eval-111", "input": "Rule: reverse the token sequence. Input: h g g k g h"}
+{"answer": "g k k k h h", "id": "symbolic-eval-112", "input": "Rule: reverse the token sequence. Input: h h k k k g"}
+{"answer": "h g k j j f f", "id": "symbolic-eval-113", "input": "Rule: reverse the token sequence. Input: f f j j k g h"}
+{"answer": "k g j g j", "id": "symbolic-eval-114", "input": "Rule: reverse the token sequence. Input: j g j g k"}
+{"answer": "g g f f h", "id": "symbolic-eval-115", "input": "Rule: reverse the token sequence. Input: h f f g g"}
+{"answer": "i h h j g f f", "id": "symbolic-eval-116", "input": "Rule: reverse the token sequence. Input: f f g j h h i"}
+{"answer": "k f h i f h k", "id": "symbolic-eval-117", "input": "Rule: reverse the token sequence. Input: k h f i h f k"}
+{"answer": "k k j h k i i", "id": "symbolic-eval-118", "input": "Rule: reverse the token sequence. Input: i i k h j k k"}
+{"answer": "h j f f g i", "id": "symbolic-eval-119", "input": "Rule: reverse the token sequence. Input: i g f f j h"}
+{"answer": "g k i h h h", "id": "symbolic-eval-120", "input": "Rule: reverse the token sequence. Input: h h h i k g"}
+{"answer": "k i f h f f", "id": "symbolic-eval-121", "input": "Rule: reverse the token sequence. Input: f f h f i k"}
+{"answer": "h f h k f", "id": "symbolic-eval-122", "input": "Rule: reverse the token sequence. Input: f k h f h"}
+{"answer": "i k k i i h", "id": "symbolic-eval-123", "input": "Rule: reverse the token sequence. Input: h i i k k i"}
+{"answer": "j i f f g g j", "id": "symbolic-eval-124", "input": "Rule: reverse the token sequence. Input: j g g f f i j"}
+{"answer": "f i i i f", "id": "symbolic-eval-125", "input": "Rule: reverse the token sequence. Input: f i i i f"}
+{"answer": "g g f k g k g", "id": "symbolic-eval-126", "input": "Rule: reverse the token sequence. Input: g k g k f g g"}
+{"answer": "g h h j k g", "id": "symbolic-eval-127", "input": "Rule: reverse the token sequence. Input: g k j h h g"}
+{"answer": "h j i f g i", "id": "symbolic-eval-128", "input": "Rule: reverse the token sequence. Input: i g f i j h"}
+{"answer": "f k j g i g i", "id": "symbolic-eval-129", "input": "Rule: reverse the token sequence. Input: i g i g j k f"}
+{"answer": "g h j i j h k", "id": "symbolic-eval-130", "input": "Rule: reverse the token sequence. Input: k h j i j h g"}
+{"answer": "h h g h f j k", "id": "symbolic-eval-131", "input": "Rule: reverse the token sequence. Input: k j f h g h h"}
+{"answer": "j j i j f h", "id": "symbolic-eval-132", "input": "Rule: reverse the token sequence. Input: h f j i j j"}
+{"answer": "i j i k g", "id": "symbolic-eval-133", "input": "Rule: reverse the token sequence. Input: g k i j i"}
+{"answer": "i i j j h", "id": "symbolic-eval-134", "input": "Rule: reverse the token sequence. Input: h j j i i"}
+{"answer": "f g i h j", "id": "symbolic-eval-135", "input": "Rule: reverse the token sequence. Input: j h i g f"}
+{"answer": "f g k i j", "id": "symbolic-eval-136", "input": "Rule: reverse the token sequence. Input: j i k g f"}
+{"answer": "k f g k i", "id": "symbolic-eval-137", "input": "Rule: reverse the token sequence. Input: i k g f k"}
+{"answer": "i k i g h h j", "id": "symbolic-eval-138", "input": "Rule: reverse the token sequence. Input: j h h g i k i"}
+{"answer": "k i g f h k j", "id": "symbolic-eval-139", "input": "Rule: reverse the token sequence. Input: j k h f g i k"}

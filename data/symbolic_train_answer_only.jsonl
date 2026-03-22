@@ -1,0 +1,220 @@
+{"answer": "b b b c", "id": "symbolic-train-0", "input": "Rule: reverse the token sequence. Input: c b b b", "target": "b b b c"}
+{"answer": "a b b", "id": "symbolic-train-1", "input": "Rule: reverse the token sequence. Input: b b a", "target": "a b b"}
+{"answer": "b d a c b", "id": "symbolic-train-2", "input": "Rule: reverse the token sequence. Input: b c a d b", "target": "b d a c b"}
+{"answer": "a b c a e", "id": "symbolic-train-3", "input": "Rule: reverse the token sequence. Input: e a c b a", "target": "a b c a e"}
+{"answer": "c b d d", "id": "symbolic-train-4", "input": "Rule: reverse the token sequence. Input: d d b c", "target": "c b d d"}
+{"answer": "e e d b", "id": "symbolic-train-5", "input": "Rule: reverse the token sequence. Input: b d e e", "target": "e e d b"}
+{"answer": "a c d c", "id": "symbolic-train-6", "input": "Rule: reverse the token sequence. Input: c d c a", "target": "a c d c"}
+{"answer": "e d c e", "id": "symbolic-train-7", "input": "Rule: reverse the token sequence. Input: e c d e", "target": "e d c e"}
+{"answer": "b e d d b", "id": "symbolic-train-8", "input": "Rule: reverse the token sequence. Input: b d d e b", "target": "b e d d b"}
+{"answer": "c e b b", "id": "symbolic-train-9", "input": "Rule: reverse the token sequence. Input: b b e c", "target": "c e b b"}
+{"answer": "e c d c", "id": "symbolic-train-10", "input": "Rule: reverse the token sequence. Input: c d c e", "target": "e c d c"}
+{"answer": "d e b d", "id": "symbolic-train-11", "input": "Rule: reverse the token sequence. Input: d b e d", "target": "d e b d"}
+{"answer": "c b b e b", "id": "symbolic-train-12", "input": "Rule: reverse the token sequence. Input: b e b b c", "target": "c b b e b"}
+{"answer": "d d a", "id": "symbolic-train-13", "input": "Rule: reverse the token sequence. Input: a d d", "target": "d d a"}
+{"answer": "b a d a", "id": "symbolic-train-14", "input": "Rule: reverse the token sequence. Input: a d a b", "target": "b a d a"}
+{"answer": "c d d", "id": "symbolic-train-15", "input": "Rule: reverse the token sequence. Input: d d c", "target": "c d d"}
+{"answer": "c c d", "id": "symbolic-train-16", "input": "Rule: reverse the token sequence. Input: d c c", "target": "c c d"}
+{"answer": "b e c", "id": "symbolic-train-17", "input": "Rule: reverse the token sequence. Input: c e b", "target": "b e c"}
+{"answer": "e b d b e", "id": "symbolic-train-18", "input": "Rule: reverse the token sequence. Input: e b d b e", "target": "e b d b e"}
+{"answer": "a e e", "id": "symbolic-train-19", "input": "Rule: reverse the token sequence. Input: e e a", "target": "a e e"}
+{"answer": "b c e e", "id": "symbolic-train-20", "input": "Rule: reverse the token sequence. Input: e e c b", "target": "b c e e"}
+{"answer": "a e b b", "id": "symbolic-train-21", "input": "Rule: reverse the token sequence. Input: b b e a", "target": "a e b b"}
+{"answer": "d a b", "id": "symbolic-train-22", "input": "Rule: reverse the token sequence. Input: b a d", "target": "d a b"}
+{"answer": "d a e e e", "id": "symbolic-train-23", "input": "Rule: reverse the token sequence. Input: e e e a d", "target": "d a e e e"}
+{"answer": "b a e a", "id": "symbolic-train-24", "input": "Rule: reverse the token sequence. Input: a e a b", "target": "b a e a"}
+{"answer": "c c d a", "id": "symbolic-train-25", "input": "Rule: reverse the token sequence. Input: a d c c", "target": "c c d a"}
+{"answer": "c e d a e", "id": "symbolic-train-26", "input": "Rule: reverse the token sequence. Input: e a d e c", "target": "c e d a e"}
+{"answer": "c c a", "id": "symbolic-train-27", "input": "Rule: reverse the token sequence. Input: a c c", "target": "c c a"}
+{"answer": "e e d", "id": "symbolic-train-28", "input": "Rule: reverse the token sequence. Input: d e e", "target": "e e d"}
+{"answer": "a c b b d", "id": "symbolic-train-29", "input": "Rule: reverse the token sequence. Input: d b b c a", "target": "a c b b d"}
+{"answer": "c b b e", "id": "symbolic-train-30", "input": "Rule: reverse the token sequence. Input: e b b c", "target": "c b b e"}
+{"answer": "e d c b", "id": "symbolic-train-31", "input": "Rule: reverse the token sequence. Input: b c d e", "target": "e d c b"}
+{"answer": "e b c", "id": "symbolic-train-32", "input": "Rule: reverse the token sequence. Input: c b e", "target": "e b c"}
+{"answer": "d c b d", "id": "symbolic-train-33", "input": "Rule: reverse the token sequence. Input: d b c d", "target": "d c b d"}
+{"answer": "d d c", "id": "symbolic-train-34", "input": "Rule: reverse the token sequence. Input: c d d", "target": "d d c"}
+{"answer": "e a a", "id": "symbolic-train-35", "input": "Rule: reverse the token sequence. Input: a a e", "target": "e a a"}
+{"answer": "d b c", "id": "symbolic-train-36", "input": "Rule: reverse the token sequence. Input: c b d", "target": "d b c"}
+{"answer": "a c d e", "id": "symbolic-train-37", "input": "Rule: reverse the token sequence. Input: e d c a", "target": "a c d e"}
+{"answer": "b b d e", "id": "symbolic-train-38", "input": "Rule: reverse the token sequence. Input: e d b b", "target": "b b d e"}
+{"answer": "b c a", "id": "symbolic-train-39", "input": "Rule: reverse the token sequence. Input: a c b", "target": "b c a"}
+{"answer": "e c c", "id": "symbolic-train-40", "input": "Rule: reverse the token sequence. Input: c c e", "target": "e c c"}
+{"answer": "b c a c", "id": "symbolic-train-41", "input": "Rule: reverse the token sequence. Input: c a c b", "target": "b c a c"}
+{"answer": "d d c", "id": "symbolic-train-42", "input": "Rule: reverse the token sequence. Input: c d d", "target": "d d c"}
+{"answer": "e c a d e", "id": "symbolic-train-43", "input": "Rule: reverse the token sequence. Input: e d a c e", "target": "e c a d e"}
+{"answer": "b c a b", "id": "symbolic-train-44", "input": "Rule: reverse the token sequence. Input: b a c b", "target": "b c a b"}
+{"answer": "a b b a b", "id": "symbolic-train-45", "input": "Rule: reverse the token sequence. Input: b a b b a", "target": "a b b a b"}
+{"answer": "c c a c", "id": "symbolic-train-46", "input": "Rule: reverse the token sequence. Input: c a c c", "target": "c c a c"}
+{"answer": "b b a", "id": "symbolic-train-47", "input": "Rule: reverse the token sequence. Input: a b b", "target": "b b a"}
+{"answer": "e d e b d", "id": "symbolic-train-48", "input": "Rule: reverse the token sequence. Input: d b e d e", "target": "e d e b d"}
+{"answer": "a a e", "id": "symbolic-train-49", "input": "Rule: reverse the token sequence. Input: e a a", "target": "a a e"}
+{"answer": "d e c e b", "id": "symbolic-train-50", "input": "Rule: reverse the token sequence. Input: b e c e d", "target": "d e c e b"}
+{"answer": "c c e b", "id": "symbolic-train-51", "input": "Rule: reverse the token sequence. Input: b e c c", "target": "c c e b"}
+{"answer": "a a c", "id": "symbolic-train-52", "input": "Rule: reverse the token sequence. Input: c a a", "target": "a a c"}
+{"answer": "e a a", "id": "symbolic-train-53", "input": "Rule: reverse the token sequence. Input: a a e", "target": "e a a"}
+{"answer": "b d c a c", "id": "symbolic-train-54", "input": "Rule: reverse the token sequence. Input: c a c d b", "target": "b d c a c"}
+{"answer": "c a a a c", "id": "symbolic-train-55", "input": "Rule: reverse the token sequence. Input: c a a a c", "target": "c a a a c"}
+{"answer": "c d d d", "id": "symbolic-train-56", "input": "Rule: reverse the token sequence. Input: d d d c", "target": "c d d d"}
+{"answer": "c d b", "id": "symbolic-train-57", "input": "Rule: reverse the token sequence. Input: b d c", "target": "c d b"}
+{"answer": "e a e", "id": "symbolic-train-58", "input": "Rule: reverse the token sequence. Input: e a e", "target": "e a e"}
+{"answer": "b b c c", "id": "symbolic-train-59", "input": "Rule: reverse the token sequence. Input: c c b b", "target": "b b c c"}
+{"answer": "d d b d", "id": "symbolic-train-60", "input": "Rule: reverse the token sequence. Input: d b d d", "target": "d d b d"}
+{"answer": "e e d b", "id": "symbolic-train-61", "input": "Rule: reverse the token sequence. Input: b d e e", "target": "e e d b"}
+{"answer": "b d d b", "id": "symbolic-train-62", "input": "Rule: reverse the token sequence. Input: b d d b", "target": "b d d b"}
+{"answer": "d a e", "id": "symbolic-train-63", "input": "Rule: reverse the token sequence. Input: e a d", "target": "d a e"}
+{"answer": "e a a b b", "id": "symbolic-train-64", "input": "Rule: reverse the token sequence. Input: b b a a e", "target": "e a a b b"}
+{"answer": "d a c", "id": "symbolic-train-65", "input": "Rule: reverse the token sequence. Input: c a d", "target": "d a c"}
+{"answer": "a d b a e", "id": "symbolic-train-66", "input": "Rule: reverse the token sequence. Input: e a b d a", "target": "a d b a e"}
+{"answer": "b e c b a", "id": "symbolic-train-67", "input": "Rule: reverse the token sequence. Input: a b c e b", "target": "b e c b a"}
+{"answer": "b c d e a", "id": "symbolic-train-68", "input": "Rule: reverse the token sequence. Input: a e d c b", "target": "b c d e a"}
+{"answer": "b a e a", "id": "symbolic-train-69", "input": "Rule: reverse the token sequence. Input: a e a b", "target": "b a e a"}
+{"answer": "e a e e", "id": "symbolic-train-70", "input": "Rule: reverse the token sequence. Input: e e a e", "target": "e a e e"}
+{"answer": "a e b c", "id": "symbolic-train-71", "input": "Rule: reverse the token sequence. Input: c b e a", "target": "a e b c"}
+{"answer": "a a e b d", "id": "symbolic-train-72", "input": "Rule: reverse the token sequence. Input: d b e a a", "target": "a a e b d"}
+{"answer": "b c d b", "id": "symbolic-train-73", "input": "Rule: reverse the token sequence. Input: b d c b", "target": "b c d b"}
+{"answer": "a e c b c", "id": "symbolic-train-74", "input": "Rule: reverse the token sequence. Input: c b c e a", "target": "a e c b c"}
+{"answer": "e b b b", "id": "symbolic-train-75", "input": "Rule: reverse the token sequence. Input: b b b e", "target": "e b b b"}
+{"answer": "b e a", "id": "symbolic-train-76", "input": "Rule: reverse the token sequence. Input: a e b", "target": "b e a"}
+{"answer": "d c d a e", "id": "symbolic-train-77", "input": "Rule: reverse the token sequence. Input: e a d c d", "target": "d c d a e"}
+{"answer": "d e e d e", "id": "symbolic-train-78", "input": "Rule: reverse the token sequence. Input: e d e e d", "target": "d e e d e"}
+{"answer": "c e d", "id": "symbolic-train-79", "input": "Rule: reverse the token sequence. Input: d e c", "target": "c e d"}
+{"answer": "c b a d", "id": "symbolic-train-80", "input": "Rule: reverse the token sequence. Input: d a b c", "target": "c b a d"}
+{"answer": "d d a e", "id": "symbolic-train-81", "input": "Rule: reverse the token sequence. Input: e a d d", "target": "d d a e"}
+{"answer": "d d d a", "id": "symbolic-train-82", "input": "Rule: reverse the token sequence. Input: a d d d", "target": "d d d a"}
+{"answer": "c a a e", "id": "symbolic-train-83", "input": "Rule: reverse the token sequence. Input: e a a c", "target": "c a a e"}
+{"answer": "e b a", "id": "symbolic-train-84", "input": "Rule: reverse the token sequence. Input: a b e", "target": "e b a"}
+{"answer": "d b e c", "id": "symbolic-train-85", "input": "Rule: reverse the token sequence. Input: c e b d", "target": "d b e c"}
+{"answer": "a a b a c", "id": "symbolic-train-86", "input": "Rule: reverse the token sequence. Input: c a b a a", "target": "a a b a c"}
+{"answer": "b d e a b", "id": "symbolic-train-87", "input": "Rule: reverse the token sequence. Input: b a e d b", "target": "b d e a b"}
+{"answer": "b b a b", "id": "symbolic-train-88", "input": "Rule: reverse the token sequence. Input: b a b b", "target": "b b a b"}
+{"answer": "d b a", "id": "symbolic-train-89", "input": "Rule: reverse the token sequence. Input: a b d", "target": "d b a"}
+{"answer": "e d a d b", "id": "symbolic-train-90", "input": "Rule: reverse the token sequence. Input: b d a d e", "target": "e d a d b"}
+{"answer": "c a a", "id": "symbolic-train-91", "input": "Rule: reverse the token sequence. Input: a a c", "target": "c a a"}
+{"answer": "a b e e a", "id": "symbolic-train-92", "input": "Rule: reverse the token sequence. Input: a e e b a", "target": "a b e e a"}
+{"answer": "b c d c d", "id": "symbolic-train-93", "input": "Rule: reverse the token sequence. Input: d c d c b", "target": "b c d c d"}
+{"answer": "d e e c", "id": "symbolic-train-94", "input": "Rule: reverse the token sequence. Input: c e e d", "target": "d e e c"}
+{"answer": "a a b c", "id": "symbolic-train-95", "input": "Rule: reverse the token sequence. Input: c b a a", "target": "a a b c"}
+{"answer": "c a a", "id": "symbolic-train-96", "input": "Rule: reverse the token sequence. Input: a a c", "target": "c a a"}
+{"answer": "c e b", "id": "symbolic-train-97", "input": "Rule: reverse the token sequence. Input: b e c", "target": "c e b"}
+{"answer": "d d a", "id": "symbolic-train-98", "input": "Rule: reverse the token sequence. Input: a d d", "target": "d d a"}
+{"answer": "d e e a a", "id": "symbolic-train-99", "input": "Rule: reverse the token sequence. Input: a a e e d", "target": "d e e a a"}
+{"answer": "d b d", "id": "symbolic-train-100", "input": "Rule: reverse the token sequence. Input: d b d", "target": "d b d"}
+{"answer": "d a a c", "id": "symbolic-train-101", "input": "Rule: reverse the token sequence. Input: c a a d", "target": "d a a c"}
+{"answer": "d c a", "id": "symbolic-train-102", "input": "Rule: reverse the token sequence. Input: a c d", "target": "d c a"}
+{"answer": "a b d", "id": "symbolic-train-103", "input": "Rule: reverse the token sequence. Input: d b a", "target": "a b d"}
+{"answer": "b c b b e", "id": "symbolic-train-104", "input": "Rule: reverse the token sequence. Input: e b b c b", "target": "b c b b e"}
+{"answer": "c c a d", "id": "symbolic-train-105", "input": "Rule: reverse the token sequence. Input: d a c c", "target": "c c a d"}
+{"answer": "b a b c", "id": "symbolic-train-106", "input": "Rule: reverse the token sequence. Input: c b a b", "target": "b a b c"}
+{"answer": "a d b e b", "id": "symbolic-train-107", "input": "Rule: reverse the token sequence. Input: b e b d a", "target": "a d b e b"}
+{"answer": "e d d a d", "id": "symbolic-train-108", "input": "Rule: reverse the token sequence. Input: d a d d e", "target": "e d d a d"}
+{"answer": "d e b", "id": "symbolic-train-109", "input": "Rule: reverse the token sequence. Input: b e d", "target": "d e b"}
+{"answer": "c d d", "id": "symbolic-train-110", "input": "Rule: reverse the token sequence. Input: d d c", "target": "c d d"}
+{"answer": "e a c d", "id": "symbolic-train-111", "input": "Rule: reverse the token sequence. Input: d c a e", "target": "e a c d"}
+{"answer": "e b d", "id": "symbolic-train-112", "input": "Rule: reverse the token sequence. Input: d b e", "target": "e b d"}
+{"answer": "e a d d a", "id": "symbolic-train-113", "input": "Rule: reverse the token sequence. Input: a d d a e", "target": "e a d d a"}
+{"answer": "e a e b d", "id": "symbolic-train-114", "input": "Rule: reverse the token sequence. Input: d b e a e", "target": "e a e b d"}
+{"answer": "a d b a b", "id": "symbolic-train-115", "input": "Rule: reverse the token sequence. Input: b a b d a", "target": "a d b a b"}
+{"answer": "c a d c", "id": "symbolic-train-116", "input": "Rule: reverse the token sequence. Input: c d a c", "target": "c a d c"}
+{"answer": "e d d", "id": "symbolic-train-117", "input": "Rule: reverse the token sequence. Input: d d e", "target": "e d d"}
+{"answer": "d b d", "id": "symbolic-train-118", "input": "Rule: reverse the token sequence. Input: d b d", "target": "d b d"}
+{"answer": "b d d a d", "id": "symbolic-train-119", "input": "Rule: reverse the token sequence. Input: d a d d b", "target": "b d d a d"}
+{"answer": "a b d e b", "id": "symbolic-train-120", "input": "Rule: reverse the token sequence. Input: b e d b a", "target": "a b d e b"}
+{"answer": "e d a", "id": "symbolic-train-121", "input": "Rule: reverse the token sequence. Input: a d e", "target": "e d a"}
+{"answer": "b e d d e", "id": "symbolic-train-122", "input": "Rule: reverse the token sequence. Input: e d d e b", "target": "b e d d e"}
+{"answer": "e d d a", "id": "symbolic-train-123", "input": "Rule: reverse the token sequence. Input: a d d e", "target": "e d d a"}
+{"answer": "e e e a d", "id": "symbolic-train-124", "input": "Rule: reverse the token sequence. Input: d a e e e", "target": "e e e a d"}
+{"answer": "b d a", "id": "symbolic-train-125", "input": "Rule: reverse the token sequence. Input: a d b", "target": "b d a"}
+{"answer": "d a a", "id": "symbolic-train-126", "input": "Rule: reverse the token sequence. Input: a a d", "target": "d a a"}
+{"answer": "a d d b e", "id": "symbolic-train-127", "input": "Rule: reverse the token sequence. Input: e b d d a", "target": "a d d b e"}
+{"answer": "d c b a", "id": "symbolic-train-128", "input": "Rule: reverse the token sequence. Input: a b c d", "target": "d c b a"}
+{"answer": "b a b b b", "id": "symbolic-train-129", "input": "Rule: reverse the token sequence. Input: b b b a b", "target": "b a b b b"}
+{"answer": "b d b c a", "id": "symbolic-train-130", "input": "Rule: reverse the token sequence. Input: a c b d b", "target": "b d b c a"}
+{"answer": "a b e a d", "id": "symbolic-train-131", "input": "Rule: reverse the token sequence. Input: d a e b a", "target": "a b e a d"}
+{"answer": "a e a a", "id": "symbolic-train-132", "input": "Rule: reverse the token sequence. Input: a a e a", "target": "a e a a"}
+{"answer": "e b b e", "id": "symbolic-train-133", "input": "Rule: reverse the token sequence. Input: e b b e", "target": "e b b e"}
+{"answer": "e d a", "id": "symbolic-train-134", "input": "Rule: reverse the token sequence. Input: a d e", "target": "e d a"}
+{"answer": "b c d", "id": "symbolic-train-135", "input": "Rule: reverse the token sequence. Input: d c b", "target": "b c d"}
+{"answer": "b b b e", "id": "symbolic-train-136", "input": "Rule: reverse the token sequence. Input: e b b b", "target": "b b b e"}
+{"answer": "d e a e e", "id": "symbolic-train-137", "input": "Rule: reverse the token sequence. Input: e e a e d", "target": "d e a e e"}
+{"answer": "b d e d b", "id": "symbolic-train-138", "input": "Rule: reverse the token sequence. Input: b d e d b", "target": "b d e d b"}
+{"answer": "a a d c", "id": "symbolic-train-139", "input": "Rule: reverse the token sequence. Input: c d a a", "target": "a a d c"}
+{"answer": "c b b d", "id": "symbolic-train-140", "input": "Rule: reverse the token sequence. Input: d b b c", "target": "c b b d"}
+{"answer": "e b d", "id": "symbolic-train-141", "input": "Rule: reverse the token sequence. Input: d b e", "target": "e b d"}
+{"answer": "a e e e", "id": "symbolic-train-142", "input": "Rule: reverse the token sequence. Input: e e e a", "target": "a e e e"}
+{"answer": "b c d b e", "id": "symbolic-train-143", "input": "Rule: reverse the token sequence. Input: e b d c b", "target": "b c d b e"}
+{"answer": "a c d a", "id": "symbolic-train-144", "input": "Rule: reverse the token sequence. Input: a d c a", "target": "a c d a"}
+{"answer": "d c a", "id": "symbolic-train-145", "input": "Rule: reverse the token sequence. Input: a c d", "target": "d c a"}
+{"answer": "a a a", "id": "symbolic-train-146", "input": "Rule: reverse the token sequence. Input: a a a", "target": "a a a"}
+{"answer": "e b e a", "id": "symbolic-train-147", "input": "Rule: reverse the token sequence. Input: a e b e", "target": "e b e a"}
+{"answer": "a e d e", "id": "symbolic-train-148", "input": "Rule: reverse the token sequence. Input: e d e a", "target": "a e d e"}
+{"answer": "c e a e", "id": "symbolic-train-149", "input": "Rule: reverse the token sequence. Input: e a e c", "target": "c e a e"}
+{"answer": "a d d a c", "id": "symbolic-train-150", "input": "Rule: reverse the token sequence. Input: c a d d a", "target": "a d d a c"}
+{"answer": "e a b c b", "id": "symbolic-train-151", "input": "Rule: reverse the token sequence. Input: b c b a e", "target": "e a b c b"}
+{"answer": "e d a", "id": "symbolic-train-152", "input": "Rule: reverse the token sequence. Input: a d e", "target": "e d a"}
+{"answer": "b d c d", "id": "symbolic-train-153", "input": "Rule: reverse the token sequence. Input: d c d b", "target": "b d c d"}
+{"answer": "e e a b", "id": "symbolic-train-154", "input": "Rule: reverse the token sequence. Input: b a e e", "target": "e e a b"}
+{"answer": "c a a c", "id": "symbolic-train-155", "input": "Rule: reverse the token sequence. Input: c a a c", "target": "c a a c"}
+{"answer": "a a d b", "id": "symbolic-train-156", "input": "Rule: reverse the token sequence. Input: b d a a", "target": "a a d b"}
+{"answer": "e d a e", "id": "symbolic-train-157", "input": "Rule: reverse the token sequence. Input: e a d e", "target": "e d a e"}
+{"answer": "e e a b", "id": "symbolic-train-158", "input": "Rule: reverse the token sequence. Input: b a e e", "target": "e e a b"}
+{"answer": "a d c a c", "id": "symbolic-train-159", "input": "Rule: reverse the token sequence. Input: c a c d a", "target": "a d c a c"}
+{"answer": "c a c e b", "id": "symbolic-train-160", "input": "Rule: reverse the token sequence. Input: b e c a c", "target": "c a c e b"}
+{"answer": "d b d a d", "id": "symbolic-train-161", "input": "Rule: reverse the token sequence. Input: d a d b d", "target": "d b d a d"}
+{"answer": "b b c", "id": "symbolic-train-162", "input": "Rule: reverse the token sequence. Input: c b b", "target": "b b c"}
+{"answer": "e c b d", "id": "symbolic-train-163", "input": "Rule: reverse the token sequence. Input: d b c e", "target": "e c b d"}
+{"answer": "c a a b", "id": "symbolic-train-164", "input": "Rule: reverse the token sequence. Input: b a a c", "target": "c a a b"}
+{"answer": "b b a", "id": "symbolic-train-165", "input": "Rule: reverse the token sequence. Input: a b b", "target": "b b a"}
+{"answer": "e d e c", "id": "symbolic-train-166", "input": "Rule: reverse the token sequence. Input: c e d e", "target": "e d e c"}
+{"answer": "c b a a c", "id": "symbolic-train-167", "input": "Rule: reverse the token sequence. Input: c a a b c", "target": "c b a a c"}
+{"answer": "b b e", "id": "symbolic-train-168", "input": "Rule: reverse the token sequence. Input: e b b", "target": "b b e"}
+{"answer": "d d d", "id": "symbolic-train-169", "input": "Rule: reverse the token sequence. Input: d d d", "target": "d d d"}
+{"answer": "a c e c", "id": "symbolic-train-170", "input": "Rule: reverse the token sequence. Input: c e c a", "target": "a c e c"}
+{"answer": "a d b c d", "id": "symbolic-train-171", "input": "Rule: reverse the token sequence. Input: d c b d a", "target": "a d b c d"}
+{"answer": "b a a b", "id": "symbolic-train-172", "input": "Rule: reverse the token sequence. Input: b a a b", "target": "b a a b"}
+{"answer": "b b c", "id": "symbolic-train-173", "input": "Rule: reverse the token sequence. Input: c b b", "target": "b b c"}
+{"answer": "b b d c a", "id": "symbolic-train-174", "input": "Rule: reverse the token sequence. Input: a c d b b", "target": "b b d c a"}
+{"answer": "c a a c e", "id": "symbolic-train-175", "input": "Rule: reverse the token sequence. Input: e c a a c", "target": "c a a c e"}
+{"answer": "d d d d", "id": "symbolic-train-176", "input": "Rule: reverse the token sequence. Input: d d d d", "target": "d d d d"}
+{"answer": "d e c", "id": "symbolic-train-177", "input": "Rule: reverse the token sequence. Input: c e d", "target": "d e c"}
+{"answer": "d d c c b", "id": "symbolic-train-178", "input": "Rule: reverse the token sequence. Input: b c c d d", "target": "d d c c b"}
+{"answer": "c a b e a", "id": "symbolic-train-179", "input": "Rule: reverse the token sequence. Input: a e b a c", "target": "c a b e a"}
+{"answer": "d c c a e", "id": "symbolic-train-180", "input": "Rule: reverse the token sequence. Input: e a c c d", "target": "d c c a e"}
+{"answer": "a b d e d", "id": "symbolic-train-181", "input": "Rule: reverse the token sequence. Input: d e d b a", "target": "a b d e d"}
+{"answer": "e a e d b", "id": "symbolic-train-182", "input": "Rule: reverse the token sequence. Input: b d e a e", "target": "e a e d b"}
+{"answer": "d d d a b", "id": "symbolic-train-183", "input": "Rule: reverse the token sequence. Input: b a d d d", "target": "d d d a b"}
+{"answer": "a e d b e", "id": "symbolic-train-184", "input": "Rule: reverse the token sequence. Input: e b d e a", "target": "a e d b e"}
+{"answer": "c a d d", "id": "symbolic-train-185", "input": "Rule: reverse the token sequence. Input: d d a c", "target": "c a d d"}
+{"answer": "c d c", "id": "symbolic-train-186", "input": "Rule: reverse the token sequence. Input: c d c", "target": "c d c"}
+{"answer": "c c c", "id": "symbolic-train-187", "input": "Rule: reverse the token sequence. Input: c c c", "target": "c c c"}
+{"answer": "a c a b", "id": "symbolic-train-188", "input": "Rule: reverse the token sequence. Input: b a c a", "target": "a c a b"}
+{"answer": "c c b", "id": "symbolic-train-189", "input": "Rule: reverse the token sequence. Input: b c c", "target": "c c b"}
+{"answer": "b a d a c", "id": "symbolic-train-190", "input": "Rule: reverse the token sequence. Input: c a d a b", "target": "b a d a c"}
+{"answer": "d c d d d", "id": "symbolic-train-191", "input": "Rule: reverse the token sequence. Input: d d d c d", "target": "d c d d d"}
+{"answer": "b c a", "id": "symbolic-train-192", "input": "Rule: reverse the token sequence. Input: a c b", "target": "b c a"}
+{"answer": "a a a", "id": "symbolic-train-193", "input": "Rule: reverse the token sequence. Input: a a a", "target": "a a a"}
+{"answer": "b b d", "id": "symbolic-train-194", "input": "Rule: reverse the token sequence. Input: d b b", "target": "b b d"}
+{"answer": "c b d", "id": "symbolic-train-195", "input": "Rule: reverse the token sequence. Input: d b c", "target": "c b d"}
+{"answer": "e d e", "id": "symbolic-train-196", "input": "Rule: reverse the token sequence. Input: e d e", "target": "e d e"}
+{"answer": "e d a", "id": "symbolic-train-197", "input": "Rule: reverse the token sequence. Input: a d e", "target": "e d a"}
+{"answer": "a c d a d", "id": "symbolic-train-198", "input": "Rule: reverse the token sequence. Input: d a d c a", "target": "a c d a d"}
+{"answer": "a b c c e", "id": "symbolic-train-199", "input": "Rule: reverse the token sequence. Input: e c c b a", "target": "a b c c e"}
+{"answer": "a d a e", "id": "symbolic-train-200", "input": "Rule: reverse the token sequence. Input: e a d a", "target": "a d a e"}
+{"answer": "d c b d", "id": "symbolic-train-201", "input": "Rule: reverse the token sequence. Input: d b c d", "target": "d c b d"}
+{"answer": "d c e", "id": "symbolic-train-202", "input": "Rule: reverse the token sequence. Input: e c d", "target": "d c e"}
+{"answer": "b d c c d", "id": "symbolic-train-203", "input": "Rule: reverse the token sequence. Input: d c c d b", "target": "b d c c d"}
+{"answer": "d a a e", "id": "symbolic-train-204", "input": "Rule: reverse the token sequence. Input: e a a d", "target": "d a a e"}
+{"answer": "c e d", "id": "symbolic-train-205", "input": "Rule: reverse the token sequence. Input: d e c", "target": "c e d"}
+{"answer": "d b e d", "id": "symbolic-train-206", "input": "Rule: reverse the token sequence. Input: d e b d", "target": "d b e d"}
+{"answer": "e e d d a", "id": "symbolic-train-207", "input": "Rule: reverse the token sequence. Input: a d d e e", "target": "e e d d a"}
+{"answer": "c c c", "id": "symbolic-train-208", "input": "Rule: reverse the token sequence. Input: c c c", "target": "c c c"}
+{"answer": "a d e", "id": "symbolic-train-209", "input": "Rule: reverse the token sequence. Input: e d a", "target": "a d e"}
+{"answer": "a b b c a", "id": "symbolic-train-210", "input": "Rule: reverse the token sequence. Input: a c b b a", "target": "a b b c a"}
+{"answer": "d d b a d", "id": "symbolic-train-211", "input": "Rule: reverse the token sequence. Input: d a b d d", "target": "d d b a d"}
+{"answer": "a a a", "id": "symbolic-train-212", "input": "Rule: reverse the token sequence. Input: a a a", "target": "a a a"}
+{"answer": "b e a", "id": "symbolic-train-213", "input": "Rule: reverse the token sequence. Input: a e b", "target": "b e a"}
+{"answer": "d e a c", "id": "symbolic-train-214", "input": "Rule: reverse the token sequence. Input: c a e d", "target": "d e a c"}
+{"answer": "b d c a d", "id": "symbolic-train-215", "input": "Rule: reverse the token sequence. Input: d a c d b", "target": "b d c a d"}
+{"answer": "c d a", "id": "symbolic-train-216", "input": "Rule: reverse the token sequence. Input: a d c", "target": "c d a"}
+{"answer": "b b b e d", "id": "symbolic-train-217", "input": "Rule: reverse the token sequence. Input: d e b b b", "target": "b b b e d"}
+{"answer": "e c a", "id": "symbolic-train-218", "input": "Rule: reverse the token sequence. Input: a c e", "target": "e c a"}
+{"answer": "c b c a a", "id": "symbolic-train-219", "input": "Rule: reverse the token sequence. Input: a a c b c", "target": "c b c a a"}
