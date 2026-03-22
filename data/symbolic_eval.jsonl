@@ -1,0 +1,128 @@
+{"id": 0, "task": "symbolic", "input": "g i c c h d e i", "answer": "a f e i d d a h", "target": "a f e i d d a h", "supervision": "answer_only"}
+{"id": 1, "task": "symbolic", "input": "b e i f c c g", "answer": "h d d g a f c", "target": "h d d g a f c", "supervision": "answer_only"}
+{"id": 2, "task": "symbolic", "input": "g a e c c c i", "answer": "a d d d f b h", "target": "a d d d f b h", "supervision": "answer_only"}
+{"id": 3, "task": "symbolic", "input": "a i e a i d c c", "answer": "d d e a b f a b", "target": "d d e a b f a b", "supervision": "answer_only"}
+{"id": 4, "task": "symbolic", "input": "e f g e c h b f f", "answer": "g g c i d f h g f", "target": "g g c i d f h g f", "supervision": "answer_only"}
+{"id": 5, "task": "symbolic", "input": "g e d g h f f", "answer": "g g i h e f h", "target": "g g i h e f h", "supervision": "answer_only"}
+{"id": 6, "task": "symbolic", "input": "i c a i d a f e", "answer": "f g b e a b d a", "target": "f g b e a b d a", "supervision": "answer_only"}
+{"id": 7, "task": "symbolic", "input": "a a f h d a f e", "answer": "f g b e i g b b", "target": "f g b e i g b b", "supervision": "answer_only"}
+{"id": 8, "task": "symbolic", "input": "h i a a c h h", "answer": "i i d b b a i", "target": "i i d b b a i", "supervision": "answer_only"}
+{"id": 9, "task": "symbolic", "input": "b e i h b f f e e", "answer": "f f g g c i a f c", "target": "f f g g c i a f c", "supervision": "answer_only"}
+{"id": 10, "task": "symbolic", "input": "a b g c f b e", "answer": "f c g d h c b", "target": "f c g d h c b", "supervision": "answer_only"}
+{"id": 11, "task": "symbolic", "input": "b d g d g f g c", "answer": "d h g h e h e c", "target": "d h g h e h e c", "supervision": "answer_only"}
+{"id": 12, "task": "symbolic", "input": "b d d i i i d i", "answer": "a e a a a e e c", "target": "a e a a a e e c", "supervision": "answer_only"}
+{"id": 13, "task": "symbolic", "input": "c h c c c f b c", "answer": "d c g d d d i d", "target": "d c g d d d i d", "supervision": "answer_only"}
+{"id": 14, "task": "symbolic", "input": "f c g c h i a b h", "answer": "i c b a i d h d g", "target": "i c b a i d h d g", "supervision": "answer_only"}
+{"id": 15, "task": "symbolic", "input": "f f h h g f b e d", "answer": "e f c g h i i g g", "target": "e f c g h i i g g", "supervision": "answer_only"}
+{"id": 16, "task": "symbolic", "input": "g c f g f c e b", "answer": "c f d g h g d h", "target": "c f d g h g d h", "supervision": "answer_only"}
+{"id": 17, "task": "symbolic", "input": "i g g e e b i d", "answer": "e a c f f h h a", "target": "e a c f f h h a", "supervision": "answer_only"}
+{"id": 18, "task": "symbolic", "input": "a i h c b d f", "answer": "g e c d i a b", "target": "g e c d i a b", "supervision": "answer_only"}
+{"id": 19, "task": "symbolic", "input": "h h i h b e e f", "answer": "g f f c i a i i", "target": "g f f c i a i i", "supervision": "answer_only"}
+{"id": 20, "task": "symbolic", "input": "a g f f f f b c h", "answer": "i d c g g g g h b", "target": "i d c g g g g h b", "supervision": "answer_only"}
+{"id": 21, "task": "symbolic", "input": "e b b g h a b", "answer": "c b i h c c f", "target": "c b i h c c f", "supervision": "answer_only"}
+{"id": 22, "task": "symbolic", "input": "f c c i h c f b b", "answer": "c c g d i a d d g", "target": "c c g d i a d d g", "supervision": "answer_only"}
+{"id": 23, "task": "symbolic", "input": "g f c g a a g", "answer": "h b b h d g h", "target": "h b b h d g h", "supervision": "answer_only"}
+{"id": 24, "task": "symbolic", "input": "h i a f f d b", "answer": "c e g g b a i", "target": "c e g g b a i", "supervision": "answer_only"}
+{"id": 25, "task": "symbolic", "input": "a c a i h c h", "answer": "i d i a b d b", "target": "i d i a b d b", "supervision": "answer_only"}
+{"id": 26, "task": "symbolic", "input": "i h b d c g a c f", "answer": "g d b h d e c i a", "target": "g d b h d e c i a", "supervision": "answer_only"}
+{"id": 27, "task": "symbolic", "input": "e f a d a g f", "answer": "g h b e b g f", "target": "g h b e b g f", "supervision": "answer_only"}
+{"id": 28, "task": "symbolic", "input": "d i e h b g d a", "answer": "b e h c i f a e", "target": "b e h c i f a e", "supervision": "answer_only"}
+{"id": 29, "task": "symbolic", "input": "d i d i e f i i g", "answer": "h a a g f a e a e", "target": "h a a g f a e a e", "supervision": "answer_only"}
+{"id": 30, "task": "symbolic", "input": "e i b g d a e f", "answer": "g f b e h c a f", "target": "g f b e h c a f", "supervision": "answer_only"}
+{"id": 31, "task": "symbolic", "input": "i e g c h g c g i", "answer": "a h d h i d h f a", "target": "a h d h i d h f a", "supervision": "answer_only"}
+{"id": 32, "task": "symbolic", "input": "e b b e e f b c", "answer": "d c g f f c c f", "target": "d c g f f c c f", "supervision": "answer_only"}
+{"id": 33, "task": "symbolic", "input": "f a a d g d d h", "answer": "i e e h e b b g", "target": "i e e h e b b g", "supervision": "answer_only"}
+{"id": 34, "task": "symbolic", "input": "a b h b a a g", "answer": "h b b c i c b", "target": "h b b c i c b", "supervision": "answer_only"}
+{"id": 35, "task": "symbolic", "input": "f h h b h i a", "answer": "b a i c i i g", "target": "b a i c i i g", "supervision": "answer_only"}
+{"id": 36, "task": "symbolic", "input": "b b a d e e a h", "answer": "i b f f e b c c", "target": "i b f f e b c c", "supervision": "answer_only"}
+{"id": 37, "task": "symbolic", "input": "h e g h c i f", "answer": "g a d i h f i", "target": "g a d i h f i", "supervision": "answer_only"}
+{"id": 38, "task": "symbolic", "input": "b c f i b a a", "answer": "b b c a g d c", "target": "b b c a g d c", "supervision": "answer_only"}
+{"id": 39, "task": "symbolic", "input": "g d g e d i f h e", "answer": "f i g a e f h e h", "target": "f i g a e f h e h", "supervision": "answer_only"}
+{"id": 40, "task": "symbolic", "input": "i c c i a i f", "answer": "g a b a d d a", "target": "g a b a d d a", "supervision": "answer_only"}
+{"id": 41, "task": "symbolic", "input": "e b f i d d f e", "answer": "f g e e a g c f", "target": "f g e e a g c f", "supervision": "answer_only"}
+{"id": 42, "task": "symbolic", "input": "b d c f g c e b", "answer": "c f d h g d e c", "target": "c f d h g d e c", "supervision": "answer_only"}
+{"id": 43, "task": "symbolic", "input": "h f f i d i e f", "answer": "g f a e a g g i", "target": "g f a e a g g i", "supervision": "answer_only"}
+{"id": 44, "task": "symbolic", "input": "f a c f h d i i i", "answer": "a a a e i g d b g", "target": "a a a e i g d b g", "supervision": "answer_only"}
+{"id": 45, "task": "symbolic", "input": "f f e h g a b", "answer": "c b h i f g g", "target": "c b h i f g g", "supervision": "answer_only"}
+{"id": 46, "task": "symbolic", "input": "h g b g b a b", "answer": "c b c h c h i", "target": "c b c h c h i", "supervision": "answer_only"}
+{"id": 47, "task": "symbolic", "input": "i a i h e b f", "answer": "g c f i a b a", "target": "g c f i a b a", "supervision": "answer_only"}
+{"id": 48, "task": "symbolic", "input": "i f d i d b f c", "answer": "d g c e a e g a", "target": "d g c e a e g a", "supervision": "answer_only"}
+{"id": 49, "task": "symbolic", "input": "c a e g a c g c i", "answer": "a d h d b h f b d", "target": "a d h d b h f b d", "supervision": "answer_only"}
+{"id": 50, "task": "symbolic", "input": "h h i h h f e a d", "answer": "e b f g i i a i i", "target": "e b f g i i a i i", "supervision": "answer_only"}
+{"id": 51, "task": "symbolic", "input": "i h g i f h e f g", "answer": "h g f i g a h i a", "target": "h g f i g a h i a", "supervision": "answer_only"}
+{"id": 52, "task": "symbolic", "input": "g d e g e f b a d", "answer": "e b c g f h f e h", "target": "e b c g f h f e h", "supervision": "answer_only"}
+{"id": 53, "task": "symbolic", "input": "c h c i f c i d h", "answer": "i e a d g a d i d", "target": "i e a d g a d i d", "supervision": "answer_only"}
+{"id": 54, "task": "symbolic", "input": "d c b c h c i", "answer": "a d i d c d e", "target": "a d i d c d e", "supervision": "answer_only"}
+{"id": 55, "task": "symbolic", "input": "g h d e e a i", "answer": "a b f f e i h", "target": "a b f f e i h", "supervision": "answer_only"}
+{"id": 56, "task": "symbolic", "input": "i i d h e i d", "answer": "e a f i e a a", "target": "e a f i e a a", "supervision": "answer_only"}
+{"id": 57, "task": "symbolic", "input": "g i e f d a b c", "answer": "d c b e g f a h", "target": "d c b e g f a h", "supervision": "answer_only"}
+{"id": 58, "task": "symbolic", "input": "c e h h a f c b", "answer": "c d g b i i f d", "target": "c d g b i i f d", "supervision": "answer_only"}
+{"id": 59, "task": "symbolic", "input": "c h f e e h f", "answer": "g i f f g i d", "target": "g i f f g i d", "supervision": "answer_only"}
+{"id": 60, "task": "symbolic", "input": "e h c f b f h c e", "answer": "f d i g c g d i f", "target": "f d i g c g d i f", "supervision": "answer_only"}
+{"id": 61, "task": "symbolic", "input": "i a h e h d b h i", "answer": "a i c e i f i b a", "target": "a i c e i f i b a", "supervision": "answer_only"}
+{"id": 62, "task": "symbolic", "input": "b f i i e g a a b", "answer": "c b b h f a a g c", "target": "c b b h f a a g c", "supervision": "answer_only"}
+{"id": 63, "task": "symbolic", "input": "i a f g h h g c e", "answer": "f d h i i h g b a", "target": "f d h i i h g b a", "supervision": "answer_only"}
+{"id": 64, "task": "symbolic", "input": "g b g f g f h", "answer": "i g h g h c h", "target": "i g h g h c h", "supervision": "answer_only"}
+{"id": 65, "task": "symbolic", "input": "b b h g c a e f", "answer": "g f b d h i c c", "target": "g f b d h i c c", "supervision": "answer_only"}
+{"id": 66, "task": "symbolic", "input": "b b e a a b c h", "answer": "i d c b b f c c", "target": "i d c b b f c c", "supervision": "answer_only"}
+{"id": 67, "task": "symbolic", "input": "h c e c h b d", "answer": "e c i d f d i", "target": "e c i d f d i", "supervision": "answer_only"}
+{"id": 68, "task": "symbolic", "input": "c e a e h g g a", "answer": "b h h i f b f d", "target": "b h h i f b f d", "supervision": "answer_only"}
+{"id": 69, "task": "symbolic", "input": "d c a i i g g", "answer": "h h a a b d e", "target": "h h a a b d e", "supervision": "answer_only"}
+{"id": 70, "task": "symbolic", "input": "f e c a h g i i", "answer": "a a h i b d f g", "target": "a a h i b d f g", "supervision": "answer_only"}
+{"id": 71, "task": "symbolic", "input": "h g i c a b i f", "answer": "g a c b d a h i", "target": "g a c b d a h i", "supervision": "answer_only"}
+{"id": 72, "task": "symbolic", "input": "f h d e g a i", "answer": "a b h f e i g", "target": "a b h f e i g", "supervision": "answer_only"}
+{"id": 73, "task": "symbolic", "input": "e i d b h i g d", "answer": "e h a i c e a f", "target": "e h a i c e a f", "supervision": "answer_only"}
+{"id": 74, "task": "symbolic", "input": "g i i b c a h i e", "answer": "f a i b d c a a h", "target": "f a i b d c a a h", "supervision": "answer_only"}
+{"id": 75, "task": "symbolic", "input": "i f a g g h g b", "answer": "c h i h h b g a", "target": "c h i h h b g a", "supervision": "answer_only"}
+{"id": 76, "task": "symbolic", "input": "e b c c i i i h", "answer": "i a a a d d c f", "target": "i a a a d d c f", "supervision": "answer_only"}
+{"id": 77, "task": "symbolic", "input": "i c g e c b b c b", "answer": "c d c c d f h d a", "target": "c d c c d f h d a", "supervision": "answer_only"}
+{"id": 78, "task": "symbolic", "input": "f i d b b c h", "answer": "i d c c e a g", "target": "i d c c e a g", "supervision": "answer_only"}
+{"id": 79, "task": "symbolic", "input": "i b i i b e a f e", "answer": "f g b f c a a c a", "target": "f g b f c a a c a", "supervision": "answer_only"}
+{"id": 80, "task": "symbolic", "input": "a i b f c h a a", "answer": "b b i d g c a b", "target": "b b i d g c a b", "supervision": "answer_only"}
+{"id": 81, "task": "symbolic", "input": "d i c i h i a c i", "answer": "a d b a i a d a e", "target": "a d b a i a d a e", "supervision": "answer_only"}
+{"id": 82, "task": "symbolic", "input": "f g g f e f e", "answer": "f g f g h h g", "target": "f g f g h h g", "supervision": "answer_only"}
+{"id": 83, "task": "symbolic", "input": "a d a g b c a e", "answer": "f b d c h b e b", "target": "f b d c h b e b", "supervision": "answer_only"}
+{"id": 84, "task": "symbolic", "input": "e b h d i c g c", "answer": "d h d a e i c f", "target": "d h d a e i c f", "supervision": "answer_only"}
+{"id": 85, "task": "symbolic", "input": "d a d d h f e g", "answer": "h f g i e e b e", "target": "h f g i e e b e", "supervision": "answer_only"}
+{"id": 86, "task": "symbolic", "input": "d d h g e d c c", "answer": "d d e f h i e e", "target": "d d e f h i e e", "supervision": "answer_only"}
+{"id": 87, "task": "symbolic", "input": "c e i g i c f", "answer": "g d a h a f d", "target": "g d a h a f d", "supervision": "answer_only"}
+{"id": 88, "task": "symbolic", "input": "e d c a h g f g f", "answer": "g h g h i b d e f", "target": "g h g h i b d e f", "supervision": "answer_only"}
+{"id": 89, "task": "symbolic", "input": "c a i b f i f", "answer": "g a g c a b d", "target": "g a g c a b d", "supervision": "answer_only"}
+{"id": 90, "task": "symbolic", "input": "d f b a h h f h d", "answer": "e i g i i b c g e", "target": "e i g i i b c g e", "supervision": "answer_only"}
+{"id": 91, "task": "symbolic", "input": "g e b c d f h", "answer": "i g e d c f h", "target": "i g e d c f h", "supervision": "answer_only"}
+{"id": 92, "task": "symbolic", "input": "c i f d f c c c", "answer": "d d d g e g a d", "target": "d d d g e g a d", "supervision": "answer_only"}
+{"id": 93, "task": "symbolic", "input": "h c c i b d f", "answer": "g e c a d d i", "target": "g e c a d d i", "supervision": "answer_only"}
+{"id": 94, "task": "symbolic", "input": "h h i g c f d b c", "answer": "d c e g d h a i i", "target": "d c e g d h a i i", "supervision": "answer_only"}
+{"id": 95, "task": "symbolic", "input": "h c f a c d f i", "answer": "a g e d b g d i", "target": "a g e d b g d i", "supervision": "answer_only"}
+{"id": 96, "task": "symbolic", "input": "i c d f c f g", "answer": "h g d g e d a", "target": "h g d g e d a", "supervision": "answer_only"}
+{"id": 97, "task": "symbolic", "input": "d f f a c d g", "answer": "h e d b g g e", "target": "h e d b g g e", "supervision": "answer_only"}
+{"id": 98, "task": "symbolic", "input": "d i c a d d a e e", "answer": "f f b e e b d a e", "target": "f f b e e b d a e", "supervision": "answer_only"}
+{"id": 99, "task": "symbolic", "input": "d f g f i a g f", "answer": "g h b a g h g e", "target": "g h b a g h g e", "supervision": "answer_only"}
+{"id": 100, "task": "symbolic", "input": "a c g h g h d b i", "answer": "a c e i h i h d b", "target": "a c e i h i h d b", "supervision": "answer_only"}
+{"id": 101, "task": "symbolic", "input": "a e c g a c d b", "answer": "c e d b h d f b", "target": "c e d b h d f b", "supervision": "answer_only"}
+{"id": 102, "task": "symbolic", "input": "d a e c b i c", "answer": "d a c d f b e", "target": "d a c d f b e", "supervision": "answer_only"}
+{"id": 103, "task": "symbolic", "input": "f d a i c b d e", "answer": "f e c d a b e g", "target": "f e c d a b e g", "supervision": "answer_only"}
+{"id": 104, "task": "symbolic", "input": "f h g d h c f", "answer": "g d i e h i g", "target": "g d i e h i g", "supervision": "answer_only"}
+{"id": 105, "task": "symbolic", "input": "g g c c a i f d b", "answer": "c e g a b d d h h", "target": "c e g a b d d h h", "supervision": "answer_only"}
+{"id": 106, "task": "symbolic", "input": "a d h h d i i d e", "answer": "f e a a e i i e b", "target": "f e a a e i i e b", "supervision": "answer_only"}
+{"id": 107, "task": "symbolic", "input": "a e c a g e a h d", "answer": "e i b f h b d f b", "target": "e i b f h b d f b", "supervision": "answer_only"}
+{"id": 108, "task": "symbolic", "input": "a c a h d h f", "answer": "g i e i b d b", "target": "g i e i b d b", "supervision": "answer_only"}
+{"id": 109, "task": "symbolic", "input": "h h f i h c h c", "answer": "d i d i a g i i", "target": "d i d i a g i i", "supervision": "answer_only"}
+{"id": 110, "task": "symbolic", "input": "i a d b c a d c", "answer": "d e b d c e b a", "target": "d e b d c e b a", "supervision": "answer_only"}
+{"id": 111, "task": "symbolic", "input": "a e h h g a d g b", "answer": "c h e b h i i f b", "target": "c h e b h i i f b", "supervision": "answer_only"}
+{"id": 112, "task": "symbolic", "input": "d a c b e g b d", "answer": "e c h f c d b e", "target": "e c h f c d b e", "supervision": "answer_only"}
+{"id": 113, "task": "symbolic", "input": "i h d i e h e c h", "answer": "i d f i f a e i a", "target": "i d f i f a e i a", "supervision": "answer_only"}
+{"id": 114, "task": "symbolic", "input": "f f e h i i e g f", "answer": "g h f a a i f g g", "target": "g h f a a i f g g", "supervision": "answer_only"}
+{"id": 115, "task": "symbolic", "input": "g c c i e b c b", "answer": "c d c f a d d h", "target": "c d c f a d d h", "supervision": "answer_only"}
+{"id": 116, "task": "symbolic", "input": "f d i e a i c e a", "answer": "b f d a b f a e g", "target": "b f d a b f a e g", "supervision": "answer_only"}
+{"id": 117, "task": "symbolic", "input": "i i h e a e e i d", "answer": "e a f f b f i a a", "target": "e a f f b f i a a", "supervision": "answer_only"}
+{"id": 118, "task": "symbolic", "input": "g e e d d g c b c", "answer": "d c d h e e f f h", "target": "d c d h e e f f h", "supervision": "answer_only"}
+{"id": 119, "task": "symbolic", "input": "b g a e c d d", "answer": "e e d f b h c", "target": "e e d f b h c", "supervision": "answer_only"}
+{"id": 120, "task": "symbolic", "input": "a a c d d f c", "answer": "d g e e d b b", "target": "d g e e d b b", "supervision": "answer_only"}
+{"id": 121, "task": "symbolic", "input": "h c c a c b f", "answer": "g c d b d d i", "target": "g c d b d d i", "supervision": "answer_only"}
+{"id": 122, "task": "symbolic", "input": "a c e f b f d", "answer": "e g c g f d b", "target": "e g c g f d b", "supervision": "answer_only"}
+{"id": 123, "task": "symbolic", "input": "e h a i b i d f", "answer": "g e a c a b i f", "target": "g e a c a b i f", "supervision": "answer_only"}
+{"id": 124, "task": "symbolic", "input": "f h f e d d a i e", "answer": "f a b e e f g i g", "target": "f a b e e f g i g", "supervision": "answer_only"}
+{"id": 125, "task": "symbolic", "input": "i f d f f b f", "answer": "g c g g e g a", "target": "g c g g e g a", "supervision": "answer_only"}
+{"id": 126, "task": "symbolic", "input": "c h i a d f i g", "answer": "h a g e b a i d", "target": "h a g e b a i d", "supervision": "answer_only"}
+{"id": 127, "task": "symbolic", "input": "b i b b i h e", "answer": "f i a c c a c", "target": "f i a c c a c", "supervision": "answer_only"}
