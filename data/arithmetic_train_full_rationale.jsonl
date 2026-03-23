@@ -1,0 +1,220 @@
+{"id": "arithmetic-train-0", "input": "Solve arithmetic problem: 21 - 10", "target": "Subtract 10 from 21 giving 11. Final answer: 11", "answer": "11"}
+{"id": "arithmetic-train-1", "input": "Solve arithmetic problem: 4 * 5", "target": "Multiply 4 by 5. The product is 20. Final answer: 20", "answer": "20"}
+{"id": "arithmetic-train-2", "input": "Solve arithmetic problem: 7 * 24", "target": "Multiply 7 by 24. The product is 168. Final answer: 168", "answer": "168"}
+{"id": "arithmetic-train-3", "input": "Solve arithmetic problem: 4 + 33", "target": "Add 4 and 33 to get 37. Final answer: 37", "answer": "37"}
+{"id": "arithmetic-train-4", "input": "Solve arithmetic problem: 3 - 6", "target": "Subtract 6 from 3 giving -3. Final answer: -3", "answer": "-3"}
+{"id": "arithmetic-train-5", "input": "Solve arithmetic problem: 27 + 5", "target": "Add 27 and 5 to get 32. Final answer: 32", "answer": "32"}
+{"id": "arithmetic-train-6", "input": "Solve arithmetic problem: 6 - 36", "target": "Subtract 36 from 6 giving -30. Final answer: -30", "answer": "-30"}
+{"id": "arithmetic-train-7", "input": "Solve arithmetic problem: 4 + 37", "target": "Add 4 and 37 to get 41. Final answer: 41", "answer": "41"}
+{"id": "arithmetic-train-8", "input": "Solve arithmetic problem: 15 + 38", "target": "Add 15 and 38 to get 53. Final answer: 53", "answer": "53"}
+{"id": "arithmetic-train-9", "input": "Solve arithmetic problem: 37 - 38", "target": "Subtract 38 from 37 giving -1. Final answer: -1", "answer": "-1"}
+{"id": "arithmetic-train-10", "input": "Solve arithmetic problem: 4 + 15", "target": "Add 4 and 15 to get 19. Final answer: 19", "answer": "19"}
+{"id": "arithmetic-train-11", "input": "Solve arithmetic problem: 36 - 9", "target": "Subtract 9 from 36 giving 27. Final answer: 27", "answer": "27"}
+{"id": "arithmetic-train-12", "input": "Solve arithmetic problem: 27 * 10", "target": "Multiply 27 by 10. The product is 270. Final answer: 270", "answer": "270"}
+{"id": "arithmetic-train-13", "input": "Solve arithmetic problem: 8 - 37", "target": "Subtract 37 from 8 giving -29. Final answer: -29", "answer": "-29"}
+{"id": "arithmetic-train-14", "input": "Solve arithmetic problem: 36 + 12", "target": "Add 36 and 12 to get 48. Final answer: 48", "answer": "48"}
+{"id": "arithmetic-train-15", "input": "Solve arithmetic problem: 38 * 37", "target": "Multiply 38 by 37. The product is 1406. Final answer: 1406", "answer": "1406"}
+{"id": "arithmetic-train-16", "input": "Solve arithmetic problem: 13 + 24", "target": "Add 13 and 24 to get 37. Final answer: 37", "answer": "37"}
+{"id": "arithmetic-train-17", "input": "Solve arithmetic problem: 36 * 5", "target": "Multiply 36 by 5. The product is 180. Final answer: 180", "answer": "180"}
+{"id": "arithmetic-train-18", "input": "Solve arithmetic problem: 4 + 40", "target": "Add 4 and 40 to get 44. Final answer: 44", "answer": "44"}
+{"id": "arithmetic-train-19", "input": "Solve arithmetic problem: 32 - 35", "target": "Subtract 35 from 32 giving -3. Final answer: -3", "answer": "-3"}
+{"id": "arithmetic-train-20", "input": "Solve arithmetic problem: 21 * 30", "target": "Multiply 21 by 30. The product is 630. Final answer: 630", "answer": "630"}
+{"id": "arithmetic-train-21", "input": "Solve arithmetic problem: 30 - 24", "target": "Subtract 24 from 30 giving 6. Final answer: 6", "answer": "6"}
+{"id": "arithmetic-train-22", "input": "Solve arithmetic problem: 16 * 12", "target": "Multiply 16 by 12. The product is 192. Final answer: 192", "answer": "192"}
+{"id": "arithmetic-train-23", "input": "Solve arithmetic problem: 16 * 6", "target": "Multiply 16 by 6. The product is 96. Final answer: 96", "answer": "96"}
+{"id": "arithmetic-train-24", "input": "Solve arithmetic problem: 20 - 34", "target": "Subtract 34 from 20 giving -14. Final answer: -14", "answer": "-14"}
+{"id": "arithmetic-train-25", "input": "Solve arithmetic problem: 22 - 29", "target": "Subtract 29 from 22 giving -7. Final answer: -7", "answer": "-7"}
+{"id": "arithmetic-train-26", "input": "Solve arithmetic problem: 39 + 5", "target": "Add 39 and 5 to get 44. Final answer: 44", "answer": "44"}
+{"id": "arithmetic-train-27", "input": "Solve arithmetic problem: 33 + 27", "target": "Add 33 and 27 to get 60. Final answer: 60", "answer": "60"}
+{"id": "arithmetic-train-28", "input": "Solve arithmetic problem: 22 - 10", "target": "Subtract 10 from 22 giving 12. Final answer: 12", "answer": "12"}
+{"id": "arithmetic-train-29", "input": "Solve arithmetic problem: 27 * 3", "target": "Multiply 27 by 3. The product is 81. Final answer: 81", "answer": "81"}
+{"id": "arithmetic-train-30", "input": "Solve arithmetic problem: 5 * 36", "target": "Multiply 5 by 36. The product is 180. Final answer: 180", "answer": "180"}
+{"id": "arithmetic-train-31", "input": "Solve arithmetic problem: 21 * 22", "target": "Multiply 21 by 22. The product is 462. Final answer: 462", "answer": "462"}
+{"id": "arithmetic-train-32", "input": "Solve arithmetic problem: 23 - 39", "target": "Subtract 39 from 23 giving -16. Final answer: -16", "answer": "-16"}
+{"id": "arithmetic-train-33", "input": "Solve arithmetic problem: 38 + 30", "target": "Add 38 and 30 to get 68. Final answer: 68", "answer": "68"}
+{"id": "arithmetic-train-34", "input": "Solve arithmetic problem: 6 - 18", "target": "Subtract 18 from 6 giving -12. Final answer: -12", "answer": "-12"}
+{"id": "arithmetic-train-35", "input": "Solve arithmetic problem: 5 * 4", "target": "Multiply 5 by 4. The product is 20. Final answer: 20", "answer": "20"}
+{"id": "arithmetic-train-36", "input": "Solve arithmetic problem: 20 * 37", "target": "Multiply 20 by 37. The product is 740. Final answer: 740", "answer": "740"}
+{"id": "arithmetic-train-37", "input": "Solve arithmetic problem: 29 * 19", "target": "Multiply 29 by 19. The product is 551. Final answer: 551", "answer": "551"}
+{"id": "arithmetic-train-38", "input": "Solve arithmetic problem: 25 + 23", "target": "Add 25 and 23 to get 48. Final answer: 48", "answer": "48"}
+{"id": "arithmetic-train-39", "input": "Solve arithmetic problem: 30 + 23", "target": "Add 30 and 23 to get 53. Final answer: 53", "answer": "53"}
+{"id": "arithmetic-train-40", "input": "Solve arithmetic problem: 40 - 8", "target": "Subtract 8 from 40 giving 32. Final answer: 32", "answer": "32"}
+{"id": "arithmetic-train-41", "input": "Solve arithmetic problem: 4 - 14", "target": "Subtract 14 from 4 giving -10. Final answer: -10", "answer": "-10"}
+{"id": "arithmetic-train-42", "input": "Solve arithmetic problem: 9 - 16", "target": "Subtract 16 from 9 giving -7. Final answer: -7", "answer": "-7"}
+{"id": "arithmetic-train-43", "input": "Solve arithmetic problem: 26 + 32", "target": "Add 26 and 32 to get 58. Final answer: 58", "answer": "58"}
+{"id": "arithmetic-train-44", "input": "Solve arithmetic problem: 11 - 29", "target": "Subtract 29 from 11 giving -18. Final answer: -18", "answer": "-18"}
+{"id": "arithmetic-train-45", "input": "Solve arithmetic problem: 36 + 18", "target": "Add 36 and 18 to get 54. Final answer: 54", "answer": "54"}
+{"id": "arithmetic-train-46", "input": "Solve arithmetic problem: 28 - 36", "target": "Subtract 36 from 28 giving -8. Final answer: -8", "answer": "-8"}
+{"id": "arithmetic-train-47", "input": "Solve arithmetic problem: 27 * 23", "target": "Multiply 27 by 23. The product is 621. Final answer: 621", "answer": "621"}
+{"id": "arithmetic-train-48", "input": "Solve arithmetic problem: 25 + 15", "target": "Add 25 and 15 to get 40. Final answer: 40", "answer": "40"}
+{"id": "arithmetic-train-49", "input": "Solve arithmetic problem: 6 + 12", "target": "Add 6 and 12 to get 18. Final answer: 18", "answer": "18"}
+{"id": "arithmetic-train-50", "input": "Solve arithmetic problem: 15 + 15", "target": "Add 15 and 15 to get 30. Final answer: 30", "answer": "30"}
+{"id": "arithmetic-train-51", "input": "Solve arithmetic problem: 32 + 38", "target": "Add 32 and 38 to get 70. Final answer: 70", "answer": "70"}
+{"id": "arithmetic-train-52", "input": "Solve arithmetic problem: 17 + 19", "target": "Add 17 and 19 to get 36. Final answer: 36", "answer": "36"}
+{"id": "arithmetic-train-53", "input": "Solve arithmetic problem: 10 * 27", "target": "Multiply 10 by 27. The product is 270. Final answer: 270", "answer": "270"}
+{"id": "arithmetic-train-54", "input": "Solve arithmetic problem: 24 * 40", "target": "Multiply 24 by 40. The product is 960. Final answer: 960", "answer": "960"}
+{"id": "arithmetic-train-55", "input": "Solve arithmetic problem: 21 * 9", "target": "Multiply 21 by 9. The product is 189. Final answer: 189", "answer": "189"}
+{"id": "arithmetic-train-56", "input": "Solve arithmetic problem: 33 * 40", "target": "Multiply 33 by 40. The product is 1320. Final answer: 1320", "answer": "1320"}
+{"id": "arithmetic-train-57", "input": "Solve arithmetic problem: 4 * 30", "target": "Multiply 4 by 30. The product is 120. Final answer: 120", "answer": "120"}
+{"id": "arithmetic-train-58", "input": "Solve arithmetic problem: 36 - 26", "target": "Subtract 26 from 36 giving 10. Final answer: 10", "answer": "10"}
+{"id": "arithmetic-train-59", "input": "Solve arithmetic problem: 26 + 26", "target": "Add 26 and 26 to get 52. Final answer: 52", "answer": "52"}
+{"id": "arithmetic-train-60", "input": "Solve arithmetic problem: 31 + 26", "target": "Add 31 and 26 to get 57. Final answer: 57", "answer": "57"}
+{"id": "arithmetic-train-61", "input": "Solve arithmetic problem: 13 + 5", "target": "Add 13 and 5 to get 18. Final answer: 18", "answer": "18"}
+{"id": "arithmetic-train-62", "input": "Solve arithmetic problem: 29 + 11", "target": "Add 29 and 11 to get 40. Final answer: 40", "answer": "40"}
+{"id": "arithmetic-train-63", "input": "Solve arithmetic problem: 22 + 39", "target": "Add 22 and 39 to get 61. Final answer: 61", "answer": "61"}
+{"id": "arithmetic-train-64", "input": "Solve arithmetic problem: 7 * 1", "target": "Multiply 7 by 1. The product is 7. Final answer: 7", "answer": "7"}
+{"id": "arithmetic-train-65", "input": "Solve arithmetic problem: 10 + 35", "target": "Add 10 and 35 to get 45. Final answer: 45", "answer": "45"}
+{"id": "arithmetic-train-66", "input": "Solve arithmetic problem: 24 + 40", "target": "Add 24 and 40 to get 64. Final answer: 64", "answer": "64"}
+{"id": "arithmetic-train-67", "input": "Solve arithmetic problem: 5 * 14", "target": "Multiply 5 by 14. The product is 70. Final answer: 70", "answer": "70"}
+{"id": "arithmetic-train-68", "input": "Solve arithmetic problem: 25 * 10", "target": "Multiply 25 by 10. The product is 250. Final answer: 250", "answer": "250"}
+{"id": "arithmetic-train-69", "input": "Solve arithmetic problem: 17 * 23", "target": "Multiply 17 by 23. The product is 391. Final answer: 391", "answer": "391"}
+{"id": "arithmetic-train-70", "input": "Solve arithmetic problem: 24 + 31", "target": "Add 24 and 31 to get 55. Final answer: 55", "answer": "55"}
+{"id": "arithmetic-train-71", "input": "Solve arithmetic problem: 8 - 32", "target": "Subtract 32 from 8 giving -24. Final answer: -24", "answer": "-24"}
+{"id": "arithmetic-train-72", "input": "Solve arithmetic problem: 31 - 31", "target": "Subtract 31 from 31 giving 0. Final answer: 0", "answer": "0"}
+{"id": "arithmetic-train-73", "input": "Solve arithmetic problem: 6 + 10", "target": "Add 6 and 10 to get 16. Final answer: 16", "answer": "16"}
+{"id": "arithmetic-train-74", "input": "Solve arithmetic problem: 22 - 17", "target": "Subtract 17 from 22 giving 5. Final answer: 5", "answer": "5"}
+{"id": "arithmetic-train-75", "input": "Solve arithmetic problem: 11 + 34", "target": "Add 11 and 34 to get 45. Final answer: 45", "answer": "45"}
+{"id": "arithmetic-train-76", "input": "Solve arithmetic problem: 14 - 34", "target": "Subtract 34 from 14 giving -20. Final answer: -20", "answer": "-20"}
+{"id": "arithmetic-train-77", "input": "Solve arithmetic problem: 10 + 35", "target": "Add 10 and 35 to get 45. Final answer: 45", "answer": "45"}
+{"id": "arithmetic-train-78", "input": "Solve arithmetic problem: 34 * 20", "target": "Multiply 34 by 20. The product is 680. Final answer: 680", "answer": "680"}
+{"id": "arithmetic-train-79", "input": "Solve arithmetic problem: 6 * 17", "target": "Multiply 6 by 17. The product is 102. Final answer: 102", "answer": "102"}
+{"id": "arithmetic-train-80", "input": "Solve arithmetic problem: 24 - 11", "target": "Subtract 11 from 24 giving 13. Final answer: 13", "answer": "13"}
+{"id": "arithmetic-train-81", "input": "Solve arithmetic problem: 15 * 35", "target": "Multiply 15 by 35. The product is 525. Final answer: 525", "answer": "525"}
+{"id": "arithmetic-train-82", "input": "Solve arithmetic problem: 33 * 22", "target": "Multiply 33 by 22. The product is 726. Final answer: 726", "answer": "726"}
+{"id": "arithmetic-train-83", "input": "Solve arithmetic problem: 15 + 40", "target": "Add 15 and 40 to get 55. Final answer: 55", "answer": "55"}
+{"id": "arithmetic-train-84", "input": "Solve arithmetic problem: 16 * 26", "target": "Multiply 16 by 26. The product is 416. Final answer: 416", "answer": "416"}
+{"id": "arithmetic-train-85", "input": "Solve arithmetic problem: 15 * 13", "target": "Multiply 15 by 13. The product is 195. Final answer: 195", "answer": "195"}
+{"id": "arithmetic-train-86", "input": "Solve arithmetic problem: 32 * 23", "target": "Multiply 32 by 23. The product is 736. Final answer: 736", "answer": "736"}
+{"id": "arithmetic-train-87", "input": "Solve arithmetic problem: 2 - 2", "target": "Subtract 2 from 2 giving 0. Final answer: 0", "answer": "0"}
+{"id": "arithmetic-train-88", "input": "Solve arithmetic problem: 31 + 17", "target": "Add 31 and 17 to get 48. Final answer: 48", "answer": "48"}
+{"id": "arithmetic-train-89", "input": "Solve arithmetic problem: 39 - 23", "target": "Subtract 23 from 39 giving 16. Final answer: 16", "answer": "16"}
+{"id": "arithmetic-train-90", "input": "Solve arithmetic problem: 23 + 24", "target": "Add 23 and 24 to get 47. Final answer: 47", "answer": "47"}
+{"id": "arithmetic-train-91", "input": "Solve arithmetic problem: 15 + 7", "target": "Add 15 and 7 to get 22. Final answer: 22", "answer": "22"}
+{"id": "arithmetic-train-92", "input": "Solve arithmetic problem: 31 - 13", "target": "Subtract 13 from 31 giving 18. Final answer: 18", "answer": "18"}
+{"id": "arithmetic-train-93", "input": "Solve arithmetic problem: 14 * 31", "target": "Multiply 14 by 31. The product is 434. Final answer: 434", "answer": "434"}
+{"id": "arithmetic-train-94", "input": "Solve arithmetic problem: 40 - 1", "target": "Subtract 1 from 40 giving 39. Final answer: 39", "answer": "39"}
+{"id": "arithmetic-train-95", "input": "Solve arithmetic problem: 23 * 6", "target": "Multiply 23 by 6. The product is 138. Final answer: 138", "answer": "138"}
+{"id": "arithmetic-train-96", "input": "Solve arithmetic problem: 8 * 25", "target": "Multiply 8 by 25. The product is 200. Final answer: 200", "answer": "200"}
+{"id": "arithmetic-train-97", "input": "Solve arithmetic problem: 13 + 31", "target": "Add 13 and 31 to get 44. Final answer: 44", "answer": "44"}
+{"id": "arithmetic-train-98", "input": "Solve arithmetic problem: 28 + 22", "target": "Add 28 and 22 to get 50. Final answer: 50", "answer": "50"}
+{"id": "arithmetic-train-99", "input": "Solve arithmetic problem: 26 - 30", "target": "Subtract 30 from 26 giving -4. Final answer: -4", "answer": "-4"}
+{"id": "arithmetic-train-100", "input": "Solve arithmetic problem: 6 + 11", "target": "Add 6 and 11 to get 17. Final answer: 17", "answer": "17"}
+{"id": "arithmetic-train-101", "input": "Solve arithmetic problem: 9 + 2", "target": "Add 9 and 2 to get 11. Final answer: 11", "answer": "11"}
+{"id": "arithmetic-train-102", "input": "Solve arithmetic problem: 38 * 30", "target": "Multiply 38 by 30. The product is 1140. Final answer: 1140", "answer": "1140"}
+{"id": "arithmetic-train-103", "input": "Solve arithmetic problem: 10 * 40", "target": "Multiply 10 by 40. The product is 400. Final answer: 400", "answer": "400"}
+{"id": "arithmetic-train-104", "input": "Solve arithmetic problem: 31 + 23", "target": "Add 31 and 23 to get 54. Final answer: 54", "answer": "54"}
+{"id": "arithmetic-train-105", "input": "Solve arithmetic problem: 36 + 36", "target": "Add 36 and 36 to get 72. Final answer: 72", "answer": "72"}
+{"id": "arithmetic-train-106", "input": "Solve arithmetic problem: 2 * 1", "target": "Multiply 2 by 1. The product is 2. Final answer: 2", "answer": "2"}
+{"id": "arithmetic-train-107", "input": "Solve arithmetic problem: 7 * 34", "target": "Multiply 7 by 34. The product is 238. Final answer: 238", "answer": "238"}
+{"id": "arithmetic-train-108", "input": "Solve arithmetic problem: 9 + 28", "target": "Add 9 and 28 to get 37. Final answer: 37", "answer": "37"}
+{"id": "arithmetic-train-109", "input": "Solve arithmetic problem: 14 - 2", "target": "Subtract 2 from 14 giving 12. Final answer: 12", "answer": "12"}
+{"id": "arithmetic-train-110", "input": "Solve arithmetic problem: 14 * 19", "target": "Multiply 14 by 19. The product is 266. Final answer: 266", "answer": "266"}
+{"id": "arithmetic-train-111", "input": "Solve arithmetic problem: 16 - 38", "target": "Subtract 38 from 16 giving -22. Final answer: -22", "answer": "-22"}
+{"id": "arithmetic-train-112", "input": "Solve arithmetic problem: 17 - 35", "target": "Subtract 35 from 17 giving -18. Final answer: -18", "answer": "-18"}
+{"id": "arithmetic-train-113", "input": "Solve arithmetic problem: 9 * 4", "target": "Multiply 9 by 4. The product is 36. Final answer: 36", "answer": "36"}
+{"id": "arithmetic-train-114", "input": "Solve arithmetic problem: 23 * 30", "target": "Multiply 23 by 30. The product is 690. Final answer: 690", "answer": "690"}
+{"id": "arithmetic-train-115", "input": "Solve arithmetic problem: 38 - 34", "target": "Subtract 34 from 38 giving 4. Final answer: 4", "answer": "4"}
+{"id": "arithmetic-train-116", "input": "Solve arithmetic problem: 33 * 9", "target": "Multiply 33 by 9. The product is 297. Final answer: 297", "answer": "297"}
+{"id": "arithmetic-train-117", "input": "Solve arithmetic problem: 10 * 34", "target": "Multiply 10 by 34. The product is 340. Final answer: 340", "answer": "340"}
+{"id": "arithmetic-train-118", "input": "Solve arithmetic problem: 2 + 29", "target": "Add 2 and 29 to get 31. Final answer: 31", "answer": "31"}
+{"id": "arithmetic-train-119", "input": "Solve arithmetic problem: 39 + 1", "target": "Add 39 and 1 to get 40. Final answer: 40", "answer": "40"}
+{"id": "arithmetic-train-120", "input": "Solve arithmetic problem: 12 - 10", "target": "Subtract 10 from 12 giving 2. Final answer: 2", "answer": "2"}
+{"id": "arithmetic-train-121", "input": "Solve arithmetic problem: 40 * 8", "target": "Multiply 40 by 8. The product is 320. Final answer: 320", "answer": "320"}
+{"id": "arithmetic-train-122", "input": "Solve arithmetic problem: 4 * 21", "target": "Multiply 4 by 21. The product is 84. Final answer: 84", "answer": "84"}
+{"id": "arithmetic-train-123", "input": "Solve arithmetic problem: 34 * 34", "target": "Multiply 34 by 34. The product is 1156. Final answer: 1156", "answer": "1156"}
+{"id": "arithmetic-train-124", "input": "Solve arithmetic problem: 31 * 7", "target": "Multiply 31 by 7. The product is 217. Final answer: 217", "answer": "217"}
+{"id": "arithmetic-train-125", "input": "Solve arithmetic problem: 4 + 16", "target": "Add 4 and 16 to get 20. Final answer: 20", "answer": "20"}
+{"id": "arithmetic-train-126", "input": "Solve arithmetic problem: 18 + 3", "target": "Add 18 and 3 to get 21. Final answer: 21", "answer": "21"}
+{"id": "arithmetic-train-127", "input": "Solve arithmetic problem: 33 * 29", "target": "Multiply 33 by 29. The product is 957. Final answer: 957", "answer": "957"}
+{"id": "arithmetic-train-128", "input": "Solve arithmetic problem: 2 - 5", "target": "Subtract 5 from 2 giving -3. Final answer: -3", "answer": "-3"}
+{"id": "arithmetic-train-129", "input": "Solve arithmetic problem: 21 * 40", "target": "Multiply 21 by 40. The product is 840. Final answer: 840", "answer": "840"}
+{"id": "arithmetic-train-130", "input": "Solve arithmetic problem: 39 + 33", "target": "Add 39 and 33 to get 72. Final answer: 72", "answer": "72"}
+{"id": "arithmetic-train-131", "input": "Solve arithmetic problem: 18 * 29", "target": "Multiply 18 by 29. The product is 522. Final answer: 522", "answer": "522"}
+{"id": "arithmetic-train-132", "input": "Solve arithmetic problem: 35 * 31", "target": "Multiply 35 by 31. The product is 1085. Final answer: 1085", "answer": "1085"}
+{"id": "arithmetic-train-133", "input": "Solve arithmetic problem: 16 - 34", "target": "Subtract 34 from 16 giving -18. Final answer: -18", "answer": "-18"}
+{"id": "arithmetic-train-134", "input": "Solve arithmetic problem: 36 - 13", "target": "Subtract 13 from 36 giving 23. Final answer: 23", "answer": "23"}
+{"id": "arithmetic-train-135", "input": "Solve arithmetic problem: 9 + 27", "target": "Add 9 and 27 to get 36. Final answer: 36", "answer": "36"}
+{"id": "arithmetic-train-136", "input": "Solve arithmetic problem: 26 - 29", "target": "Subtract 29 from 26 giving -3. Final answer: -3", "answer": "-3"}
+{"id": "arithmetic-train-137", "input": "Solve arithmetic problem: 5 - 16", "target": "Subtract 16 from 5 giving -11. Final answer: -11", "answer": "-11"}
+{"id": "arithmetic-train-138", "input": "Solve arithmetic problem: 5 * 14", "target": "Multiply 5 by 14. The product is 70. Final answer: 70", "answer": "70"}
+{"id": "arithmetic-train-139", "input": "Solve arithmetic problem: 20 + 8", "target": "Add 20 and 8 to get 28. Final answer: 28", "answer": "28"}
+{"id": "arithmetic-train-140", "input": "Solve arithmetic problem: 24 - 10", "target": "Subtract 10 from 24 giving 14. Final answer: 14", "answer": "14"}
+{"id": "arithmetic-train-141", "input": "Solve arithmetic problem: 9 + 30", "target": "Add 9 and 30 to get 39. Final answer: 39", "answer": "39"}
+{"id": "arithmetic-train-142", "input": "Solve arithmetic problem: 7 - 26", "target": "Subtract 26 from 7 giving -19. Final answer: -19", "answer": "-19"}
+{"id": "arithmetic-train-143", "input": "Solve arithmetic problem: 11 + 15", "target": "Add 11 and 15 to get 26. Final answer: 26", "answer": "26"}
+{"id": "arithmetic-train-144", "input": "Solve arithmetic problem: 28 - 33", "target": "Subtract 33 from 28 giving -5. Final answer: -5", "answer": "-5"}
+{"id": "arithmetic-train-145", "input": "Solve arithmetic problem: 22 + 27", "target": "Add 22 and 27 to get 49. Final answer: 49", "answer": "49"}
+{"id": "arithmetic-train-146", "input": "Solve arithmetic problem: 23 + 21", "target": "Add 23 and 21 to get 44. Final answer: 44", "answer": "44"}
+{"id": "arithmetic-train-147", "input": "Solve arithmetic problem: 24 - 2", "target": "Subtract 2 from 24 giving 22. Final answer: 22", "answer": "22"}
+{"id": "arithmetic-train-148", "input": "Solve arithmetic problem: 36 - 30", "target": "Subtract 30 from 36 giving 6. Final answer: 6", "answer": "6"}
+{"id": "arithmetic-train-149", "input": "Solve arithmetic problem: 2 - 25", "target": "Subtract 25 from 2 giving -23. Final answer: -23", "answer": "-23"}
+{"id": "arithmetic-train-150", "input": "Solve arithmetic problem: 34 - 40", "target": "Subtract 40 from 34 giving -6. Final answer: -6", "answer": "-6"}
+{"id": "arithmetic-train-151", "input": "Solve arithmetic problem: 33 + 5", "target": "Add 33 and 5 to get 38. Final answer: 38", "answer": "38"}
+{"id": "arithmetic-train-152", "input": "Solve arithmetic problem: 15 + 7", "target": "Add 15 and 7 to get 22. Final answer: 22", "answer": "22"}
+{"id": "arithmetic-train-153", "input": "Solve arithmetic problem: 17 + 18", "target": "Add 17 and 18 to get 35. Final answer: 35", "answer": "35"}
+{"id": "arithmetic-train-154", "input": "Solve arithmetic problem: 12 + 18", "target": "Add 12 and 18 to get 30. Final answer: 30", "answer": "30"}
+{"id": "arithmetic-train-155", "input": "Solve arithmetic problem: 28 - 17", "target": "Subtract 17 from 28 giving 11. Final answer: 11", "answer": "11"}
+{"id": "arithmetic-train-156", "input": "Solve arithmetic problem: 10 * 35", "target": "Multiply 10 by 35. The product is 350. Final answer: 350", "answer": "350"}
+{"id": "arithmetic-train-157", "input": "Solve arithmetic problem: 37 * 32", "target": "Multiply 37 by 32. The product is 1184. Final answer: 1184", "answer": "1184"}
+{"id": "arithmetic-train-158", "input": "Solve arithmetic problem: 21 - 6", "target": "Subtract 6 from 21 giving 15. Final answer: 15", "answer": "15"}
+{"id": "arithmetic-train-159", "input": "Solve arithmetic problem: 4 - 12", "target": "Subtract 12 from 4 giving -8. Final answer: -8", "answer": "-8"}
+{"id": "arithmetic-train-160", "input": "Solve arithmetic problem: 5 + 18", "target": "Add 5 and 18 to get 23. Final answer: 23", "answer": "23"}
+{"id": "arithmetic-train-161", "input": "Solve arithmetic problem: 6 + 17", "target": "Add 6 and 17 to get 23. Final answer: 23", "answer": "23"}
+{"id": "arithmetic-train-162", "input": "Solve arithmetic problem: 39 + 15", "target": "Add 39 and 15 to get 54. Final answer: 54", "answer": "54"}
+{"id": "arithmetic-train-163", "input": "Solve arithmetic problem: 17 - 8", "target": "Subtract 8 from 17 giving 9. Final answer: 9", "answer": "9"}
+{"id": "arithmetic-train-164", "input": "Solve arithmetic problem: 1 * 22", "target": "Multiply 1 by 22. The product is 22. Final answer: 22", "answer": "22"}
+{"id": "arithmetic-train-165", "input": "Solve arithmetic problem: 27 * 18", "target": "Multiply 27 by 18. The product is 486. Final answer: 486", "answer": "486"}
+{"id": "arithmetic-train-166", "input": "Solve arithmetic problem: 9 * 3", "target": "Multiply 9 by 3. The product is 27. Final answer: 27", "answer": "27"}
+{"id": "arithmetic-train-167", "input": "Solve arithmetic problem: 16 + 8", "target": "Add 16 and 8 to get 24. Final answer: 24", "answer": "24"}
+{"id": "arithmetic-train-168", "input": "Solve arithmetic problem: 17 + 4", "target": "Add 17 and 4 to get 21. Final answer: 21", "answer": "21"}
+{"id": "arithmetic-train-169", "input": "Solve arithmetic problem: 13 * 20", "target": "Multiply 13 by 20. The product is 260. Final answer: 260", "answer": "260"}
+{"id": "arithmetic-train-170", "input": "Solve arithmetic problem: 20 + 34", "target": "Add 20 and 34 to get 54. Final answer: 54", "answer": "54"}
+{"id": "arithmetic-train-171", "input": "Solve arithmetic problem: 19 * 29", "target": "Multiply 19 by 29. The product is 551. Final answer: 551", "answer": "551"}
+{"id": "arithmetic-train-172", "input": "Solve arithmetic problem: 12 - 18", "target": "Subtract 18 from 12 giving -6. Final answer: -6", "answer": "-6"}
+{"id": "arithmetic-train-173", "input": "Solve arithmetic problem: 2 + 17", "target": "Add 2 and 17 to get 19. Final answer: 19", "answer": "19"}
+{"id": "arithmetic-train-174", "input": "Solve arithmetic problem: 1 * 2", "target": "Multiply 1 by 2. The product is 2. Final answer: 2", "answer": "2"}
+{"id": "arithmetic-train-175", "input": "Solve arithmetic problem: 33 + 36", "target": "Add 33 and 36 to get 69. Final answer: 69", "answer": "69"}
+{"id": "arithmetic-train-176", "input": "Solve arithmetic problem: 33 + 31", "target": "Add 33 and 31 to get 64. Final answer: 64", "answer": "64"}
+{"id": "arithmetic-train-177", "input": "Solve arithmetic problem: 29 * 7", "target": "Multiply 29 by 7. The product is 203. Final answer: 203", "answer": "203"}
+{"id": "arithmetic-train-178", "input": "Solve arithmetic problem: 28 * 32", "target": "Multiply 28 by 32. The product is 896. Final answer: 896", "answer": "896"}
+{"id": "arithmetic-train-179", "input": "Solve arithmetic problem: 26 - 33", "target": "Subtract 33 from 26 giving -7. Final answer: -7", "answer": "-7"}
+{"id": "arithmetic-train-180", "input": "Solve arithmetic problem: 14 - 15", "target": "Subtract 15 from 14 giving -1. Final answer: -1", "answer": "-1"}
+{"id": "arithmetic-train-181", "input": "Solve arithmetic problem: 13 - 9", "target": "Subtract 9 from 13 giving 4. Final answer: 4", "answer": "4"}
+{"id": "arithmetic-train-182", "input": "Solve arithmetic problem: 23 + 4", "target": "Add 23 and 4 to get 27. Final answer: 27", "answer": "27"}
+{"id": "arithmetic-train-183", "input": "Solve arithmetic problem: 1 * 5", "target": "Multiply 1 by 5. The product is 5. Final answer: 5", "answer": "5"}
+{"id": "arithmetic-train-184", "input": "Solve arithmetic problem: 17 + 28", "target": "Add 17 and 28 to get 45. Final answer: 45", "answer": "45"}
+{"id": "arithmetic-train-185", "input": "Solve arithmetic problem: 4 * 6", "target": "Multiply 4 by 6. The product is 24. Final answer: 24", "answer": "24"}
+{"id": "arithmetic-train-186", "input": "Solve arithmetic problem: 25 * 33", "target": "Multiply 25 by 33. The product is 825. Final answer: 825", "answer": "825"}
+{"id": "arithmetic-train-187", "input": "Solve arithmetic problem: 19 + 39", "target": "Add 19 and 39 to get 58. Final answer: 58", "answer": "58"}
+{"id": "arithmetic-train-188", "input": "Solve arithmetic problem: 19 - 3", "target": "Subtract 3 from 19 giving 16. Final answer: 16", "answer": "16"}
+{"id": "arithmetic-train-189", "input": "Solve arithmetic problem: 12 - 11", "target": "Subtract 11 from 12 giving 1. Final answer: 1", "answer": "1"}
+{"id": "arithmetic-train-190", "input": "Solve arithmetic problem: 29 - 1", "target": "Subtract 1 from 29 giving 28. Final answer: 28", "answer": "28"}
+{"id": "arithmetic-train-191", "input": "Solve arithmetic problem: 24 * 22", "target": "Multiply 24 by 22. The product is 528. Final answer: 528", "answer": "528"}
+{"id": "arithmetic-train-192", "input": "Solve arithmetic problem: 21 + 16", "target": "Add 21 and 16 to get 37. Final answer: 37", "answer": "37"}
+{"id": "arithmetic-train-193", "input": "Solve arithmetic problem: 20 - 14", "target": "Subtract 14 from 20 giving 6. Final answer: 6", "answer": "6"}
+{"id": "arithmetic-train-194", "input": "Solve arithmetic problem: 12 - 1", "target": "Subtract 1 from 12 giving 11. Final answer: 11", "answer": "11"}
+{"id": "arithmetic-train-195", "input": "Solve arithmetic problem: 25 - 6", "target": "Subtract 6 from 25 giving 19. Final answer: 19", "answer": "19"}
+{"id": "arithmetic-train-196", "input": "Solve arithmetic problem: 18 * 33", "target": "Multiply 18 by 33. The product is 594. Final answer: 594", "answer": "594"}
+{"id": "arithmetic-train-197", "input": "Solve arithmetic problem: 13 * 16", "target": "Multiply 13 by 16. The product is 208. Final answer: 208", "answer": "208"}
+{"id": "arithmetic-train-198", "input": "Solve arithmetic problem: 1 - 6", "target": "Subtract 6 from 1 giving -5. Final answer: -5", "answer": "-5"}
+{"id": "arithmetic-train-199", "input": "Solve arithmetic problem: 6 - 10", "target": "Subtract 10 from 6 giving -4. Final answer: -4", "answer": "-4"}
+{"id": "arithmetic-train-200", "input": "Solve arithmetic problem: 38 - 3", "target": "Subtract 3 from 38 giving 35. Final answer: 35", "answer": "35"}
+{"id": "arithmetic-train-201", "input": "Solve arithmetic problem: 2 - 20", "target": "Subtract 20 from 2 giving -18. Final answer: -18", "answer": "-18"}
+{"id": "arithmetic-train-202", "input": "Solve arithmetic problem: 15 * 6", "target": "Multiply 15 by 6. The product is 90. Final answer: 90", "answer": "90"}
+{"id": "arithmetic-train-203", "input": "Solve arithmetic problem: 34 * 10", "target": "Multiply 34 by 10. The product is 340. Final answer: 340", "answer": "340"}
+{"id": "arithmetic-train-204", "input": "Solve arithmetic problem: 39 - 25", "target": "Subtract 25 from 39 giving 14. Final answer: 14", "answer": "14"}
+{"id": "arithmetic-train-205", "input": "Solve arithmetic problem: 32 - 10", "target": "Subtract 10 from 32 giving 22. Final answer: 22", "answer": "22"}
+{"id": "arithmetic-train-206", "input": "Solve arithmetic problem: 40 + 10", "target": "Add 40 and 10 to get 50. Final answer: 50", "answer": "50"}
+{"id": "arithmetic-train-207", "input": "Solve arithmetic problem: 33 * 28", "target": "Multiply 33 by 28. The product is 924. Final answer: 924", "answer": "924"}
+{"id": "arithmetic-train-208", "input": "Solve arithmetic problem: 33 * 9", "target": "Multiply 33 by 9. The product is 297. Final answer: 297", "answer": "297"}
+{"id": "arithmetic-train-209", "input": "Solve arithmetic problem: 33 + 37", "target": "Add 33 and 37 to get 70. Final answer: 70", "answer": "70"}
+{"id": "arithmetic-train-210", "input": "Solve arithmetic problem: 38 + 15", "target": "Add 38 and 15 to get 53. Final answer: 53", "answer": "53"}
+{"id": "arithmetic-train-211", "input": "Solve arithmetic problem: 2 + 3", "target": "Add 2 and 3 to get 5. Final answer: 5", "answer": "5"}
+{"id": "arithmetic-train-212", "input": "Solve arithmetic problem: 24 - 7", "target": "Subtract 7 from 24 giving 17. Final answer: 17", "answer": "17"}
+{"id": "arithmetic-train-213", "input": "Solve arithmetic problem: 29 + 36", "target": "Add 29 and 36 to get 65. Final answer: 65", "answer": "65"}
+{"id": "arithmetic-train-214", "input": "Solve arithmetic problem: 2 * 35", "target": "Multiply 2 by 35. The product is 70. Final answer: 70", "answer": "70"}
+{"id": "arithmetic-train-215", "input": "Solve arithmetic problem: 16 - 32", "target": "Subtract 32 from 16 giving -16. Final answer: -16", "answer": "-16"}
+{"id": "arithmetic-train-216", "input": "Solve arithmetic problem: 1 + 30", "target": "Add 1 and 30 to get 31. Final answer: 31", "answer": "31"}
+{"id": "arithmetic-train-217", "input": "Solve arithmetic problem: 33 + 35", "target": "Add 33 and 35 to get 68. Final answer: 68", "answer": "68"}
+{"id": "arithmetic-train-218", "input": "Solve arithmetic problem: 34 * 5", "target": "Multiply 34 by 5. The product is 170. Final answer: 170", "answer": "170"}
+{"id": "arithmetic-train-219", "input": "Solve arithmetic problem: 31 + 17", "target": "Add 31 and 17 to get 48. Final answer: 48", "answer": "48"}

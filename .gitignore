@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+outputs/metrics/*.json
+outputs/metrics/*.csv
+outputs/metrics/*.md
+outputs/metrics/*.png
+outputs/metrics/adapters/

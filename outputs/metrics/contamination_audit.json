@@ -1,0 +1,22 @@
+{
+  "audits": [
+    {
+      "char_4gram_overlap_jaccard": 0.150912,
+      "eval_rows": 140,
+      "exact_input_overlap_count": 0,
+      "exact_input_overlap_examples": [],
+      "protocol_note": "Train and eval are split into separate files with disjoint generation ranges. Arithmetic uses disjoint operand ranges; symbolic uses disjoint symbol alphabets and length ranges.",
+      "task": "arithmetic",
+      "train_rows": 220
+    },
+    {
+      "char_4gram_overlap_jaccard": 0.208791,
+      "eval_rows": 140,
+      "exact_input_overlap_count": 0,
+      "exact_input_overlap_examples": [],
+      "protocol_note": "Train and eval are split into separate files with disjoint generation ranges. Arithmetic uses disjoint operand ranges; symbolic uses disjoint symbol alphabets and length ranges.",
+      "task": "symbolic",
+      "train_rows": 220
+    }
+  ]
+}

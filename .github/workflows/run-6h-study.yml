@@ -1,0 +1,55 @@
+name: run-6h-study
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  tiny-distill:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        task: [arithmetic, symbolic]
+        seed_shard: ["0,1", "2,3", "4"]
+    timeout-minutes: 390
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Regenerate symbolic data (determinism check)
+        run: |
+          python scripts/generate_symbolic_data.py --out-dir data --train-size 220 --eval-size 140 --seed 13
+
+      - name: Contamination audit
+        run: |
+          python scripts/contamination_audit.py --tasks arithmetic symbolic --output-root outputs/metrics
+
+      - name: Run long tiny study shard
+        run: |
+          python scripts/run_6h_study.py \
+            --tasks ${{ matrix.task }} \
+            --formats answer_only,short_rationale,full_rationale \
+            --budgets 16,32,64,128 \
+            --seeds ${{ matrix.seed_shard }} \
+            --epochs 3 \
+            --output-root outputs/metrics
+
+      - name: Upload metrics artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-${{ matrix.task }}-${{ matrix.seed_shard }}
+          path: outputs/metrics
+          if-no-files-found: error
