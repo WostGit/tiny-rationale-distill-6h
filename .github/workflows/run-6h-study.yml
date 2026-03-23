@@ -1,0 +1,92 @@
+name: run-6h-study
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  run-shards:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard_index: [0, 1, 2, 3, 4, 5]
+        num_shards: [6]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure deterministic data files
+        run: |
+          python scripts/generate_symbolic_data.py --out_dir data --train_n 256 --eval_n 128 --seed 13
+
+      - name: Run shard
+        run: |
+          python scripts/run_6h_study.py \
+            --tasks arithmetic symbolic \
+            --formats answer_only short_rationale full_rationale \
+            --budgets 16 32 64 128 \
+            --seeds 0 1 2 3 4 \
+            --epochs 3 \
+            --shard_index ${{ matrix.shard_index }} \
+            --num_shards ${{ matrix.num_shards }}
+
+      - name: Upload shard metrics
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-shard-${{ matrix.shard_index }}
+          path: outputs/metrics
+
+  merge-summary:
+    needs: run-shards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Download shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: shard_artifacts
+
+      - name: Merge run directories
+        run: |
+          mkdir -p outputs/metrics/runs
+          find shard_artifacts -type d -name 'runs' -print0 | while IFS= read -r -d '' d; do
+            cp -r "$d"/* outputs/metrics/runs/ || true
+          done
+
+      - name: Rebuild aggregate summary and plots
+        run: |
+          python - << 'PY'
+          from pathlib import Path
+          import sys
+          sys.path.append('scripts')
+          from run_6h_study import aggregate
+          aggregate(Path('outputs/metrics'))
+          PY
+
+      - name: Upload merged metrics
+        uses: actions/upload-artifact@v4
+        with:
+          name: metrics-merged
+          path: outputs/metrics

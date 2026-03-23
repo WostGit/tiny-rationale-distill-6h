@@ -1,0 +1,128 @@
+{"id": "sym-eval-0", "input": "Rule task: apply shift to sequence [e c f d f e d]", "answer": "f d a e a f e"}
+{"id": "sym-eval-1", "input": "Rule task: apply shift to sequence [d f c e e]", "answer": "e a d f f"}
+{"id": "sym-eval-2", "input": "Rule task: apply reverse to sequence [e d e d c]", "answer": "c d e d e"}
+{"id": "sym-eval-3", "input": "Rule task: apply sort to sequence [e c c c f]", "answer": "c c c e f"}
+{"id": "sym-eval-4", "input": "Rule task: apply reverse to sequence [f f f d c d e]", "answer": "e d c d f f f"}
+{"id": "sym-eval-5", "input": "Rule task: apply reverse to sequence [e d e c e]", "answer": "e c e d e"}
+{"id": "sym-eval-6", "input": "Rule task: apply sort to sequence [d e c f d d e]", "answer": "c d d d e e f"}
+{"id": "sym-eval-7", "input": "Rule task: apply shift to sequence [d e f e e c]", "answer": "e f a f f d"}
+{"id": "sym-eval-8", "input": "Rule task: apply reverse to sequence [c c e e d d d]", "answer": "d d d e e c c"}
+{"id": "sym-eval-9", "input": "Rule task: apply reverse to sequence [f d d f c]", "answer": "c f d d f"}
+{"id": "sym-eval-10", "input": "Rule task: apply sort to sequence [f d c f e]", "answer": "c d e f f"}
+{"id": "sym-eval-11", "input": "Rule task: apply sort to sequence [e e d f f]", "answer": "d e e f f"}
+{"id": "sym-eval-12", "input": "Rule task: apply reverse to sequence [f d f d f d]", "answer": "d f d f d f"}
+{"id": "sym-eval-13", "input": "Rule task: apply shift to sequence [d c c d c f c]", "answer": "e d d e d a d"}
+{"id": "sym-eval-14", "input": "Rule task: apply shift to sequence [e d c e c d c]", "answer": "f e d f d e d"}
+{"id": "sym-eval-15", "input": "Rule task: apply shift to sequence [f e d c c]", "answer": "a f e d d"}
+{"id": "sym-eval-16", "input": "Rule task: apply shift to sequence [e d c d e f]", "answer": "f e d e f a"}
+{"id": "sym-eval-17", "input": "Rule task: apply sort to sequence [f f d e d]", "answer": "d d e f f"}
+{"id": "sym-eval-18", "input": "Rule task: apply sort to sequence [f e e f e f f]", "answer": "e e e f f f f"}
+{"id": "sym-eval-19", "input": "Rule task: apply shift to sequence [d c e d e c c]", "answer": "e d f e f d d"}
+{"id": "sym-eval-20", "input": "Rule task: apply shift to sequence [c f f e e]", "answer": "d a a f f"}
+{"id": "sym-eval-21", "input": "Rule task: apply sort to sequence [e f f e e]", "answer": "e e e f f"}
+{"id": "sym-eval-22", "input": "Rule task: apply sort to sequence [f e d d f c d]", "answer": "c d d d e f f"}
+{"id": "sym-eval-23", "input": "Rule task: apply shift to sequence [f d c e c]", "answer": "a e d f d"}
+{"id": "sym-eval-24", "input": "Rule task: apply shift to sequence [c c c c e d]", "answer": "d d d d f e"}
+{"id": "sym-eval-25", "input": "Rule task: apply shift to sequence [d f f e e d c]", "answer": "e a a f f e d"}
+{"id": "sym-eval-26", "input": "Rule task: apply reverse to sequence [e f f e c d]", "answer": "d c e f f e"}
+{"id": "sym-eval-27", "input": "Rule task: apply shift to sequence [c f c d d c]", "answer": "d a d e e d"}
+{"id": "sym-eval-28", "input": "Rule task: apply shift to sequence [e f d c f]", "answer": "f a e d a"}
+{"id": "sym-eval-29", "input": "Rule task: apply reverse to sequence [e c c e e]", "answer": "e e c c e"}
+{"id": "sym-eval-30", "input": "Rule task: apply shift to sequence [f d c d f f c]", "answer": "a e d e a a d"}
+{"id": "sym-eval-31", "input": "Rule task: apply shift to sequence [c d f d d c c]", "answer": "d e a e e d d"}
+{"id": "sym-eval-32", "input": "Rule task: apply shift to sequence [e e f c d c c]", "answer": "f f a d e d d"}
+{"id": "sym-eval-33", "input": "Rule task: apply sort to sequence [e f d f f d c]", "answer": "c d d e f f f"}
+{"id": "sym-eval-34", "input": "Rule task: apply reverse to sequence [e e c e e e]", "answer": "e e e c e e"}
+{"id": "sym-eval-35", "input": "Rule task: apply shift to sequence [c d c f d]", "answer": "d e d a e"}
+{"id": "sym-eval-36", "input": "Rule task: apply shift to sequence [e f e c f d c]", "answer": "f a f d a e d"}
+{"id": "sym-eval-37", "input": "Rule task: apply reverse to sequence [f c c e c]", "answer": "c e c c f"}
+{"id": "sym-eval-38", "input": "Rule task: apply shift to sequence [f e f d f]", "answer": "a f a e a"}
+{"id": "sym-eval-39", "input": "Rule task: apply reverse to sequence [c e f e c c]", "answer": "c c e f e c"}
+{"id": "sym-eval-40", "input": "Rule task: apply reverse to sequence [f f c d d d]", "answer": "d d d c f f"}
+{"id": "sym-eval-41", "input": "Rule task: apply sort to sequence [f d e c c c e]", "answer": "c c c d e e f"}
+{"id": "sym-eval-42", "input": "Rule task: apply shift to sequence [f f e e d d]", "answer": "a a f f e e"}
+{"id": "sym-eval-43", "input": "Rule task: apply reverse to sequence [d f f c d]", "answer": "d c f f d"}
+{"id": "sym-eval-44", "input": "Rule task: apply reverse to sequence [d c c e d e]", "answer": "e d e c c d"}
+{"id": "sym-eval-45", "input": "Rule task: apply reverse to sequence [c c e c c f]", "answer": "f c c e c c"}
+{"id": "sym-eval-46", "input": "Rule task: apply sort to sequence [d c f c f]", "answer": "c c d f f"}
+{"id": "sym-eval-47", "input": "Rule task: apply reverse to sequence [d f e c e e]", "answer": "e e c e f d"}
+{"id": "sym-eval-48", "input": "Rule task: apply sort to sequence [e c c f d]", "answer": "c c d e f"}
+{"id": "sym-eval-49", "input": "Rule task: apply sort to sequence [e c c c f]", "answer": "c c c e f"}
+{"id": "sym-eval-50", "input": "Rule task: apply reverse to sequence [e c c e d e f]", "answer": "f e d e c c e"}
+{"id": "sym-eval-51", "input": "Rule task: apply reverse to sequence [e f c e f e]", "answer": "e f e c f e"}
+{"id": "sym-eval-52", "input": "Rule task: apply sort to sequence [f f f f e]", "answer": "e f f f f"}
+{"id": "sym-eval-53", "input": "Rule task: apply sort to sequence [c e f f f d e]", "answer": "c d e e f f f"}
+{"id": "sym-eval-54", "input": "Rule task: apply sort to sequence [e c c f f d e]", "answer": "c c d e e f f"}
+{"id": "sym-eval-55", "input": "Rule task: apply sort to sequence [e d e e d]", "answer": "d d e e e"}
+{"id": "sym-eval-56", "input": "Rule task: apply reverse to sequence [c e c e c c f]", "answer": "f c c e c e c"}
+{"id": "sym-eval-57", "input": "Rule task: apply shift to sequence [f f c d f c d]", "answer": "a a d e a d e"}
+{"id": "sym-eval-58", "input": "Rule task: apply reverse to sequence [c e c e d d]", "answer": "d d e c e c"}
+{"id": "sym-eval-59", "input": "Rule task: apply sort to sequence [d e c f c]", "answer": "c c d e f"}
+{"id": "sym-eval-60", "input": "Rule task: apply sort to sequence [c d e d f]", "answer": "c d d e f"}
+{"id": "sym-eval-61", "input": "Rule task: apply shift to sequence [d f c f c e e]", "answer": "e a d a d f f"}
+{"id": "sym-eval-62", "input": "Rule task: apply sort to sequence [f c d d d e d]", "answer": "c d d d d e f"}
+{"id": "sym-eval-63", "input": "Rule task: apply shift to sequence [e d c f f f]", "answer": "f e d a a a"}
+{"id": "sym-eval-64", "input": "Rule task: apply sort to sequence [d d e c e e]", "answer": "c d d e e e"}
+{"id": "sym-eval-65", "input": "Rule task: apply reverse to sequence [d d c f e f c]", "answer": "c f e f c d d"}
+{"id": "sym-eval-66", "input": "Rule task: apply reverse to sequence [c d c e c e d]", "answer": "d e c e c d c"}
+{"id": "sym-eval-67", "input": "Rule task: apply sort to sequence [c f f c c f]", "answer": "c c c f f f"}
+{"id": "sym-eval-68", "input": "Rule task: apply sort to sequence [e c d e e f]", "answer": "c d e e e f"}
+{"id": "sym-eval-69", "input": "Rule task: apply reverse to sequence [c c c e f]", "answer": "f e c c c"}
+{"id": "sym-eval-70", "input": "Rule task: apply sort to sequence [f f f f e e]", "answer": "e e f f f f"}
+{"id": "sym-eval-71", "input": "Rule task: apply reverse to sequence [f d c c c f d]", "answer": "d f c c c d f"}
+{"id": "sym-eval-72", "input": "Rule task: apply reverse to sequence [d f d e d c]", "answer": "c d e d f d"}
+{"id": "sym-eval-73", "input": "Rule task: apply shift to sequence [f e e c c c d]", "answer": "a f f d d d e"}
+{"id": "sym-eval-74", "input": "Rule task: apply reverse to sequence [f c c d f f]", "answer": "f f d c c f"}
+{"id": "sym-eval-75", "input": "Rule task: apply shift to sequence [c c f d e]", "answer": "d d a e f"}
+{"id": "sym-eval-76", "input": "Rule task: apply sort to sequence [d f d c f d e]", "answer": "c d d d e f f"}
+{"id": "sym-eval-77", "input": "Rule task: apply sort to sequence [d f f f c d f]", "answer": "c d d f f f f"}
+{"id": "sym-eval-78", "input": "Rule task: apply reverse to sequence [d f d c c c c]", "answer": "c c c c d f d"}
+{"id": "sym-eval-79", "input": "Rule task: apply reverse to sequence [c c e f c f]", "answer": "f c f e c c"}
+{"id": "sym-eval-80", "input": "Rule task: apply reverse to sequence [d e d c d]", "answer": "d c d e d"}
+{"id": "sym-eval-81", "input": "Rule task: apply reverse to sequence [c c e d c]", "answer": "c d e c c"}
+{"id": "sym-eval-82", "input": "Rule task: apply shift to sequence [c d e c e d]", "answer": "d e f d f e"}
+{"id": "sym-eval-83", "input": "Rule task: apply shift to sequence [c e c e e]", "answer": "d f d f f"}
+{"id": "sym-eval-84", "input": "Rule task: apply sort to sequence [e d c c d]", "answer": "c c d d e"}
+{"id": "sym-eval-85", "input": "Rule task: apply sort to sequence [d c f c f f]", "answer": "c c d f f f"}
+{"id": "sym-eval-86", "input": "Rule task: apply sort to sequence [f e d c f]", "answer": "c d e f f"}
+{"id": "sym-eval-87", "input": "Rule task: apply sort to sequence [f f f d c]", "answer": "c d f f f"}
+{"id": "sym-eval-88", "input": "Rule task: apply reverse to sequence [e e c f c f e]", "answer": "e f c f c e e"}
+{"id": "sym-eval-89", "input": "Rule task: apply reverse to sequence [d d e e e]", "answer": "e e e d d"}
+{"id": "sym-eval-90", "input": "Rule task: apply shift to sequence [d d d c f e]", "answer": "e e e d a f"}
+{"id": "sym-eval-91", "input": "Rule task: apply shift to sequence [e c e d f f d]", "answer": "f d f e a a e"}
+{"id": "sym-eval-92", "input": "Rule task: apply sort to sequence [c c c e c]", "answer": "c c c c e"}
+{"id": "sym-eval-93", "input": "Rule task: apply shift to sequence [e f c e f f c]", "answer": "f a d f a a d"}
+{"id": "sym-eval-94", "input": "Rule task: apply sort to sequence [d f c c f f]", "answer": "c c d f f f"}
+{"id": "sym-eval-95", "input": "Rule task: apply shift to sequence [f f c d d]", "answer": "a a d e e"}
+{"id": "sym-eval-96", "input": "Rule task: apply sort to sequence [e f d e f f]", "answer": "d e e f f f"}
+{"id": "sym-eval-97", "input": "Rule task: apply shift to sequence [d d c e f f d]", "answer": "e e d f a a e"}
+{"id": "sym-eval-98", "input": "Rule task: apply sort to sequence [f e d e c f f]", "answer": "c d e e f f f"}
+{"id": "sym-eval-99", "input": "Rule task: apply sort to sequence [e e f c e e]", "answer": "c e e e e f"}
+{"id": "sym-eval-100", "input": "Rule task: apply reverse to sequence [d f c c c]", "answer": "c c c f d"}
+{"id": "sym-eval-101", "input": "Rule task: apply sort to sequence [c e f d d d f]", "answer": "c d d d e f f"}
+{"id": "sym-eval-102", "input": "Rule task: apply shift to sequence [e e e f f]", "answer": "f f f a a"}
+{"id": "sym-eval-103", "input": "Rule task: apply sort to sequence [f d f f f d d]", "answer": "d d d f f f f"}
+{"id": "sym-eval-104", "input": "Rule task: apply sort to sequence [c e f f e c]", "answer": "c c e e f f"}
+{"id": "sym-eval-105", "input": "Rule task: apply sort to sequence [f e e c c c]", "answer": "c c c e e f"}
+{"id": "sym-eval-106", "input": "Rule task: apply sort to sequence [f f e e d e d]", "answer": "d d e e e f f"}
+{"id": "sym-eval-107", "input": "Rule task: apply shift to sequence [f f d d e]", "answer": "a a e e f"}
+{"id": "sym-eval-108", "input": "Rule task: apply shift to sequence [d d e c c c e]", "answer": "e e f d d d f"}
+{"id": "sym-eval-109", "input": "Rule task: apply sort to sequence [f e f d f]", "answer": "d e f f f"}
+{"id": "sym-eval-110", "input": "Rule task: apply sort to sequence [e e f e f]", "answer": "e e e f f"}
+{"id": "sym-eval-111", "input": "Rule task: apply sort to sequence [d d c d f f]", "answer": "c d d d f f"}
+{"id": "sym-eval-112", "input": "Rule task: apply sort to sequence [c d f f c]", "answer": "c c d f f"}
+{"id": "sym-eval-113", "input": "Rule task: apply reverse to sequence [e c d f e e]", "answer": "e e f d c e"}
+{"id": "sym-eval-114", "input": "Rule task: apply sort to sequence [c f d f c d e]", "answer": "c c d d e f f"}
+{"id": "sym-eval-115", "input": "Rule task: apply shift to sequence [c d c c f f c]", "answer": "d e d d a a d"}
+{"id": "sym-eval-116", "input": "Rule task: apply sort to sequence [e d c f f c e]", "answer": "c c d e e f f"}
+{"id": "sym-eval-117", "input": "Rule task: apply shift to sequence [c e c f c c d]", "answer": "d f d a d d e"}
+{"id": "sym-eval-118", "input": "Rule task: apply sort to sequence [d e c c d c f]", "answer": "c c c d d e f"}
+{"id": "sym-eval-119", "input": "Rule task: apply reverse to sequence [c e f e f]", "answer": "f e f e c"}
+{"id": "sym-eval-120", "input": "Rule task: apply shift to sequence [c c e c f]", "answer": "d d f d a"}
+{"id": "sym-eval-121", "input": "Rule task: apply sort to sequence [e c c d e c]", "answer": "c c c d e e"}
+{"id": "sym-eval-122", "input": "Rule task: apply reverse to sequence [f c e e f]", "answer": "f e e c f"}
+{"id": "sym-eval-123", "input": "Rule task: apply sort to sequence [e d c f e]", "answer": "c d e e f"}
+{"id": "sym-eval-124", "input": "Rule task: apply shift to sequence [d d d d c e]", "answer": "e e e e d f"}
+{"id": "sym-eval-125", "input": "Rule task: apply shift to sequence [c c c f e]", "answer": "d d d a f"}
+{"id": "sym-eval-126", "input": "Rule task: apply sort to sequence [c f d e c]", "answer": "c c d e f"}
+{"id": "sym-eval-127", "input": "Rule task: apply reverse to sequence [d f f f d c]", "answer": "c d f f f d"}

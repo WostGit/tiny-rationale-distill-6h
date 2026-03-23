@@ -1,0 +1,256 @@
+{"id": "sym-train-0", "input": "Rule task: apply sort to sequence [b c a c b a]", "target": "Reason: Apply sort -> a a b b c c. Final: a a b b c c"}
+{"id": "sym-train-1", "input": "Rule task: apply shift to sequence [a a b c d]", "target": "Reason: Apply shift -> b b c d e. Final: b b c d e"}
+{"id": "sym-train-2", "input": "Rule task: apply sort to sequence [d b b c c]", "target": "Reason: Apply sort -> b b c c d. Final: b b c c d"}
+{"id": "sym-train-3", "input": "Rule task: apply shift to sequence [a d d a b]", "target": "Reason: Apply shift -> b e e b c. Final: b e e b c"}
+{"id": "sym-train-4", "input": "Rule task: apply reverse to sequence [a b a a]", "target": "Reason: Apply reverse -> a a b a. Final: a a b a"}
+{"id": "sym-train-5", "input": "Rule task: apply reverse to sequence [c c c b a]", "target": "Reason: Apply reverse -> a b c c c. Final: a b c c c"}
+{"id": "sym-train-6", "input": "Rule task: apply shift to sequence [b b b a a]", "target": "Reason: Apply shift -> c c c b b. Final: c c c b b"}
+{"id": "sym-train-7", "input": "Rule task: apply shift to sequence [c c b c d b]", "target": "Reason: Apply shift -> d d c d e c. Final: d d c d e c"}
+{"id": "sym-train-8", "input": "Rule task: apply shift to sequence [d b b d a]", "target": "Reason: Apply shift -> e c c e b. Final: e c c e b"}
+{"id": "sym-train-9", "input": "Rule task: apply shift to sequence [d c b a]", "target": "Reason: Apply shift -> e d c b. Final: e d c b"}
+{"id": "sym-train-10", "input": "Rule task: apply reverse to sequence [b d b b]", "target": "Reason: Apply reverse -> b b d b. Final: b b d b"}
+{"id": "sym-train-11", "input": "Rule task: apply sort to sequence [c a c d]", "target": "Reason: Apply sort -> a c c d. Final: a c c d"}
+{"id": "sym-train-12", "input": "Rule task: apply reverse to sequence [a b a d c a]", "target": "Reason: Apply reverse -> a c d a b a. Final: a c d a b a"}
+{"id": "sym-train-13", "input": "Rule task: apply shift to sequence [a a c c a c]", "target": "Reason: Apply shift -> b b d d b d. Final: b b d d b d"}
+{"id": "sym-train-14", "input": "Rule task: apply reverse to sequence [a b b a]", "target": "Reason: Apply reverse -> a b b a. Final: a b b a"}
+{"id": "sym-train-15", "input": "Rule task: apply sort to sequence [b c b d]", "target": "Reason: Apply sort -> b b c d. Final: b b c d"}
+{"id": "sym-train-16", "input": "Rule task: apply reverse to sequence [d a b b]", "target": "Reason: Apply reverse -> b b a d. Final: b b a d"}
+{"id": "sym-train-17", "input": "Rule task: apply reverse to sequence [a c b d]", "target": "Reason: Apply reverse -> d b c a. Final: d b c a"}
+{"id": "sym-train-18", "input": "Rule task: apply shift to sequence [a d d a b b]", "target": "Reason: Apply shift -> b e e b c c. Final: b e e b c c"}
+{"id": "sym-train-19", "input": "Rule task: apply shift to sequence [d a c b c]", "target": "Reason: Apply shift -> e b d c d. Final: e b d c d"}
+{"id": "sym-train-20", "input": "Rule task: apply sort to sequence [b a a c a]", "target": "Reason: Apply sort -> a a a b c. Final: a a a b c"}
+{"id": "sym-train-21", "input": "Rule task: apply shift to sequence [c d d a a]", "target": "Reason: Apply shift -> d e e b b. Final: d e e b b"}
+{"id": "sym-train-22", "input": "Rule task: apply reverse to sequence [b a a c a]", "target": "Reason: Apply reverse -> a c a a b. Final: a c a a b"}
+{"id": "sym-train-23", "input": "Rule task: apply shift to sequence [c a a a b]", "target": "Reason: Apply shift -> d b b b c. Final: d b b b c"}
+{"id": "sym-train-24", "input": "Rule task: apply sort to sequence [d a c c]", "target": "Reason: Apply sort -> a c c d. Final: a c c d"}
+{"id": "sym-train-25", "input": "Rule task: apply sort to sequence [b d d d]", "target": "Reason: Apply sort -> b d d d. Final: b d d d"}
+{"id": "sym-train-26", "input": "Rule task: apply reverse to sequence [d a d c]", "target": "Reason: Apply reverse -> c d a d. Final: c d a d"}
+{"id": "sym-train-27", "input": "Rule task: apply reverse to sequence [c d c d]", "target": "Reason: Apply reverse -> d c d c. Final: d c d c"}
+{"id": "sym-train-28", "input": "Rule task: apply reverse to sequence [a c b a c a]", "target": "Reason: Apply reverse -> a c a b c a. Final: a c a b c a"}
+{"id": "sym-train-29", "input": "Rule task: apply shift to sequence [b b c a b]", "target": "Reason: Apply shift -> c c d b c. Final: c c d b c"}
+{"id": "sym-train-30", "input": "Rule task: apply shift to sequence [c b a b d]", "target": "Reason: Apply shift -> d c b c e. Final: d c b c e"}
+{"id": "sym-train-31", "input": "Rule task: apply shift to sequence [b d d c c]", "target": "Reason: Apply shift -> c e e d d. Final: c e e d d"}
+{"id": "sym-train-32", "input": "Rule task: apply sort to sequence [d c c b]", "target": "Reason: Apply sort -> b c c d. Final: b c c d"}
+{"id": "sym-train-33", "input": "Rule task: apply shift to sequence [b d b c c b]", "target": "Reason: Apply shift -> c e c d d c. Final: c e c d d c"}
+{"id": "sym-train-34", "input": "Rule task: apply reverse to sequence [a c a b c d]", "target": "Reason: Apply reverse -> d c b a c a. Final: d c b a c a"}
+{"id": "sym-train-35", "input": "Rule task: apply reverse to sequence [c d b b b c]", "target": "Reason: Apply reverse -> c b b b d c. Final: c b b b d c"}
+{"id": "sym-train-36", "input": "Rule task: apply reverse to sequence [a b c c b c]", "target": "Reason: Apply reverse -> c b c c b a. Final: c b c c b a"}
+{"id": "sym-train-37", "input": "Rule task: apply sort to sequence [c c a b]", "target": "Reason: Apply sort -> a b c c. Final: a b c c"}
+{"id": "sym-train-38", "input": "Rule task: apply sort to sequence [d a a d]", "target": "Reason: Apply sort -> a a d d. Final: a a d d"}
+{"id": "sym-train-39", "input": "Rule task: apply sort to sequence [a b c d b]", "target": "Reason: Apply sort -> a b b c d. Final: a b b c d"}
+{"id": "sym-train-40", "input": "Rule task: apply sort to sequence [d b b b b]", "target": "Reason: Apply sort -> b b b b d. Final: b b b b d"}
+{"id": "sym-train-41", "input": "Rule task: apply reverse to sequence [b d d d]", "target": "Reason: Apply reverse -> d d d b. Final: d d d b"}
+{"id": "sym-train-42", "input": "Rule task: apply shift to sequence [a b b c b]", "target": "Reason: Apply shift -> b c c d c. Final: b c c d c"}
+{"id": "sym-train-43", "input": "Rule task: apply shift to sequence [d d a c b]", "target": "Reason: Apply shift -> e e b d c. Final: e e b d c"}
+{"id": "sym-train-44", "input": "Rule task: apply sort to sequence [c c b a]", "target": "Reason: Apply sort -> a b c c. Final: a b c c"}
+{"id": "sym-train-45", "input": "Rule task: apply shift to sequence [b c b a b]", "target": "Reason: Apply shift -> c d c b c. Final: c d c b c"}
+{"id": "sym-train-46", "input": "Rule task: apply shift to sequence [a a c d a b]", "target": "Reason: Apply shift -> b b d e b c. Final: b b d e b c"}
+{"id": "sym-train-47", "input": "Rule task: apply reverse to sequence [d d d a b b]", "target": "Reason: Apply reverse -> b b a d d d. Final: b b a d d d"}
+{"id": "sym-train-48", "input": "Rule task: apply reverse to sequence [c b b c b]", "target": "Reason: Apply reverse -> b c b b c. Final: b c b b c"}
+{"id": "sym-train-49", "input": "Rule task: apply shift to sequence [d d c b]", "target": "Reason: Apply shift -> e e d c. Final: e e d c"}
+{"id": "sym-train-50", "input": "Rule task: apply reverse to sequence [b a d a a c]", "target": "Reason: Apply reverse -> c a a d a b. Final: c a a d a b"}
+{"id": "sym-train-51", "input": "Rule task: apply shift to sequence [c c c d a]", "target": "Reason: Apply shift -> d d d e b. Final: d d d e b"}
+{"id": "sym-train-52", "input": "Rule task: apply shift to sequence [a a b b b]", "target": "Reason: Apply shift -> b b c c c. Final: b b c c c"}
+{"id": "sym-train-53", "input": "Rule task: apply shift to sequence [d d a a]", "target": "Reason: Apply shift -> e e b b. Final: e e b b"}
+{"id": "sym-train-54", "input": "Rule task: apply sort to sequence [d d a c]", "target": "Reason: Apply sort -> a c d d. Final: a c d d"}
+{"id": "sym-train-55", "input": "Rule task: apply shift to sequence [c c a d b b]", "target": "Reason: Apply shift -> d d b e c c. Final: d d b e c c"}
+{"id": "sym-train-56", "input": "Rule task: apply reverse to sequence [a a c b b b]", "target": "Reason: Apply reverse -> b b b c a a. Final: b b b c a a"}
+{"id": "sym-train-57", "input": "Rule task: apply shift to sequence [a a a b d]", "target": "Reason: Apply shift -> b b b c e. Final: b b b c e"}
+{"id": "sym-train-58", "input": "Rule task: apply reverse to sequence [d c c b c a]", "target": "Reason: Apply reverse -> a c b c c d. Final: a c b c c d"}
+{"id": "sym-train-59", "input": "Rule task: apply shift to sequence [d b b b]", "target": "Reason: Apply shift -> e c c c. Final: e c c c"}
+{"id": "sym-train-60", "input": "Rule task: apply shift to sequence [b b c a b]", "target": "Reason: Apply shift -> c c d b c. Final: c c d b c"}
+{"id": "sym-train-61", "input": "Rule task: apply reverse to sequence [d b a a b]", "target": "Reason: Apply reverse -> b a a b d. Final: b a a b d"}
+{"id": "sym-train-62", "input": "Rule task: apply shift to sequence [b c c c a c]", "target": "Reason: Apply shift -> c d d d b d. Final: c d d d b d"}
+{"id": "sym-train-63", "input": "Rule task: apply shift to sequence [d a c c]", "target": "Reason: Apply shift -> e b d d. Final: e b d d"}
+{"id": "sym-train-64", "input": "Rule task: apply reverse to sequence [d c a a a]", "target": "Reason: Apply reverse -> a a a c d. Final: a a a c d"}
+{"id": "sym-train-65", "input": "Rule task: apply shift to sequence [c d c d]", "target": "Reason: Apply shift -> d e d e. Final: d e d e"}
+{"id": "sym-train-66", "input": "Rule task: apply reverse to sequence [a d a a d]", "target": "Reason: Apply reverse -> d a a d a. Final: d a a d a"}
+{"id": "sym-train-67", "input": "Rule task: apply sort to sequence [a a a c a]", "target": "Reason: Apply sort -> a a a a c. Final: a a a a c"}
+{"id": "sym-train-68", "input": "Rule task: apply shift to sequence [a c a a a]", "target": "Reason: Apply shift -> b d b b b. Final: b d b b b"}
+{"id": "sym-train-69", "input": "Rule task: apply shift to sequence [a b d b c c]", "target": "Reason: Apply shift -> b c e c d d. Final: b c e c d d"}
+{"id": "sym-train-70", "input": "Rule task: apply shift to sequence [a a b c]", "target": "Reason: Apply shift -> b b c d. Final: b b c d"}
+{"id": "sym-train-71", "input": "Rule task: apply reverse to sequence [d d a a d]", "target": "Reason: Apply reverse -> d a a d d. Final: d a a d d"}
+{"id": "sym-train-72", "input": "Rule task: apply reverse to sequence [b b b b]", "target": "Reason: Apply reverse -> b b b b. Final: b b b b"}
+{"id": "sym-train-73", "input": "Rule task: apply sort to sequence [a b c d c]", "target": "Reason: Apply sort -> a b c c d. Final: a b c c d"}
+{"id": "sym-train-74", "input": "Rule task: apply sort to sequence [a c a c b]", "target": "Reason: Apply sort -> a a b c c. Final: a a b c c"}
+{"id": "sym-train-75", "input": "Rule task: apply reverse to sequence [b a b c]", "target": "Reason: Apply reverse -> c b a b. Final: c b a b"}
+{"id": "sym-train-76", "input": "Rule task: apply sort to sequence [a a a b a d]", "target": "Reason: Apply sort -> a a a a b d. Final: a a a a b d"}
+{"id": "sym-train-77", "input": "Rule task: apply sort to sequence [c b a d b c]", "target": "Reason: Apply sort -> a b b c c d. Final: a b b c c d"}
+{"id": "sym-train-78", "input": "Rule task: apply reverse to sequence [b c d d a]", "target": "Reason: Apply reverse -> a d d c b. Final: a d d c b"}
+{"id": "sym-train-79", "input": "Rule task: apply reverse to sequence [b d d c]", "target": "Reason: Apply reverse -> c d d b. Final: c d d b"}
+{"id": "sym-train-80", "input": "Rule task: apply reverse to sequence [d a a b d]", "target": "Reason: Apply reverse -> d b a a d. Final: d b a a d"}
+{"id": "sym-train-81", "input": "Rule task: apply reverse to sequence [a d c a a d]", "target": "Reason: Apply reverse -> d a a c d a. Final: d a a c d a"}
+{"id": "sym-train-82", "input": "Rule task: apply reverse to sequence [a a b a]", "target": "Reason: Apply reverse -> a b a a. Final: a b a a"}
+{"id": "sym-train-83", "input": "Rule task: apply sort to sequence [a c b c c]", "target": "Reason: Apply sort -> a b c c c. Final: a b c c c"}
+{"id": "sym-train-84", "input": "Rule task: apply shift to sequence [b d a c]", "target": "Reason: Apply shift -> c e b d. Final: c e b d"}
+{"id": "sym-train-85", "input": "Rule task: apply shift to sequence [a b d c d c]", "target": "Reason: Apply shift -> b c e d e d. Final: b c e d e d"}
+{"id": "sym-train-86", "input": "Rule task: apply sort to sequence [a a d d b]", "target": "Reason: Apply sort -> a a b d d. Final: a a b d d"}
+{"id": "sym-train-87", "input": "Rule task: apply shift to sequence [a b a b]", "target": "Reason: Apply shift -> b c b c. Final: b c b c"}
+{"id": "sym-train-88", "input": "Rule task: apply sort to sequence [a a b a]", "target": "Reason: Apply sort -> a a a b. Final: a a a b"}
+{"id": "sym-train-89", "input": "Rule task: apply shift to sequence [a d b b]", "target": "Reason: Apply shift -> b e c c. Final: b e c c"}
+{"id": "sym-train-90", "input": "Rule task: apply sort to sequence [a d c b a]", "target": "Reason: Apply sort -> a a b c d. Final: a a b c d"}
+{"id": "sym-train-91", "input": "Rule task: apply shift to sequence [a d d d d]", "target": "Reason: Apply shift -> b e e e e. Final: b e e e e"}
+{"id": "sym-train-92", "input": "Rule task: apply shift to sequence [b b c a]", "target": "Reason: Apply shift -> c c d b. Final: c c d b"}
+{"id": "sym-train-93", "input": "Rule task: apply reverse to sequence [b a a c]", "target": "Reason: Apply reverse -> c a a b. Final: c a a b"}
+{"id": "sym-train-94", "input": "Rule task: apply sort to sequence [d c a b b c]", "target": "Reason: Apply sort -> a b b c c d. Final: a b b c c d"}
+{"id": "sym-train-95", "input": "Rule task: apply shift to sequence [c a c a b]", "target": "Reason: Apply shift -> d b d b c. Final: d b d b c"}
+{"id": "sym-train-96", "input": "Rule task: apply shift to sequence [d b c a b d]", "target": "Reason: Apply shift -> e c d b c e. Final: e c d b c e"}
+{"id": "sym-train-97", "input": "Rule task: apply sort to sequence [b a d d]", "target": "Reason: Apply sort -> a b d d. Final: a b d d"}
+{"id": "sym-train-98", "input": "Rule task: apply sort to sequence [d b b a b d]", "target": "Reason: Apply sort -> a b b b d d. Final: a b b b d d"}
+{"id": "sym-train-99", "input": "Rule task: apply reverse to sequence [a d b a d c]", "target": "Reason: Apply reverse -> c d a b d a. Final: c d a b d a"}
+{"id": "sym-train-100", "input": "Rule task: apply reverse to sequence [c b b a]", "target": "Reason: Apply reverse -> a b b c. Final: a b b c"}
+{"id": "sym-train-101", "input": "Rule task: apply sort to sequence [b a a b]", "target": "Reason: Apply sort -> a a b b. Final: a a b b"}
+{"id": "sym-train-102", "input": "Rule task: apply reverse to sequence [d c b d b]", "target": "Reason: Apply reverse -> b d b c d. Final: b d b c d"}
+{"id": "sym-train-103", "input": "Rule task: apply sort to sequence [b a c d]", "target": "Reason: Apply sort -> a b c d. Final: a b c d"}
+{"id": "sym-train-104", "input": "Rule task: apply reverse to sequence [a c c d a]", "target": "Reason: Apply reverse -> a d c c a. Final: a d c c a"}
+{"id": "sym-train-105", "input": "Rule task: apply sort to sequence [d b a d b b]", "target": "Reason: Apply sort -> a b b b d d. Final: a b b b d d"}
+{"id": "sym-train-106", "input": "Rule task: apply shift to sequence [d b b c a b]", "target": "Reason: Apply shift -> e c c d b c. Final: e c c d b c"}
+{"id": "sym-train-107", "input": "Rule task: apply sort to sequence [c c a b d]", "target": "Reason: Apply sort -> a b c c d. Final: a b c c d"}
+{"id": "sym-train-108", "input": "Rule task: apply shift to sequence [a a d c]", "target": "Reason: Apply shift -> b b e d. Final: b b e d"}
+{"id": "sym-train-109", "input": "Rule task: apply shift to sequence [b d a d c b]", "target": "Reason: Apply shift -> c e b e d c. Final: c e b e d c"}
+{"id": "sym-train-110", "input": "Rule task: apply sort to sequence [d a d a a b]", "target": "Reason: Apply sort -> a a a b d d. Final: a a a b d d"}
+{"id": "sym-train-111", "input": "Rule task: apply sort to sequence [b c b c c]", "target": "Reason: Apply sort -> b b c c c. Final: b b c c c"}
+{"id": "sym-train-112", "input": "Rule task: apply reverse to sequence [b d c c c b]", "target": "Reason: Apply reverse -> b c c c d b. Final: b c c c d b"}
+{"id": "sym-train-113", "input": "Rule task: apply sort to sequence [a a c d b]", "target": "Reason: Apply sort -> a a b c d. Final: a a b c d"}
+{"id": "sym-train-114", "input": "Rule task: apply sort to sequence [b c c b c]", "target": "Reason: Apply sort -> b b c c c. Final: b b c c c"}
+{"id": "sym-train-115", "input": "Rule task: apply reverse to sequence [a b c a c]", "target": "Reason: Apply reverse -> c a c b a. Final: c a c b a"}
+{"id": "sym-train-116", "input": "Rule task: apply reverse to sequence [a c d b d]", "target": "Reason: Apply reverse -> d b d c a. Final: d b d c a"}
+{"id": "sym-train-117", "input": "Rule task: apply reverse to sequence [a c c b]", "target": "Reason: Apply reverse -> b c c a. Final: b c c a"}
+{"id": "sym-train-118", "input": "Rule task: apply sort to sequence [b c a c a c]", "target": "Reason: Apply sort -> a a b c c c. Final: a a b c c c"}
+{"id": "sym-train-119", "input": "Rule task: apply shift to sequence [d a a b a b]", "target": "Reason: Apply shift -> e b b c b c. Final: e b b c b c"}
+{"id": "sym-train-120", "input": "Rule task: apply reverse to sequence [b a d c a b]", "target": "Reason: Apply reverse -> b a c d a b. Final: b a c d a b"}
+{"id": "sym-train-121", "input": "Rule task: apply reverse to sequence [a a c c]", "target": "Reason: Apply reverse -> c c a a. Final: c c a a"}
+{"id": "sym-train-122", "input": "Rule task: apply reverse to sequence [a c d a b a]", "target": "Reason: Apply reverse -> a b a d c a. Final: a b a d c a"}
+{"id": "sym-train-123", "input": "Rule task: apply shift to sequence [a d d a]", "target": "Reason: Apply shift -> b e e b. Final: b e e b"}
+{"id": "sym-train-124", "input": "Rule task: apply shift to sequence [d c d b]", "target": "Reason: Apply shift -> e d e c. Final: e d e c"}
+{"id": "sym-train-125", "input": "Rule task: apply sort to sequence [a c c a]", "target": "Reason: Apply sort -> a a c c. Final: a a c c"}
+{"id": "sym-train-126", "input": "Rule task: apply shift to sequence [d c c b a]", "target": "Reason: Apply shift -> e d d c b. Final: e d d c b"}
+{"id": "sym-train-127", "input": "Rule task: apply sort to sequence [b c a b]", "target": "Reason: Apply sort -> a b b c. Final: a b b c"}
+{"id": "sym-train-128", "input": "Rule task: apply reverse to sequence [d c c b a c]", "target": "Reason: Apply reverse -> c a b c c d. Final: c a b c c d"}
+{"id": "sym-train-129", "input": "Rule task: apply sort to sequence [a c b d c]", "target": "Reason: Apply sort -> a b c c d. Final: a b c c d"}
+{"id": "sym-train-130", "input": "Rule task: apply reverse to sequence [a c d b]", "target": "Reason: Apply reverse -> b d c a. Final: b d c a"}
+{"id": "sym-train-131", "input": "Rule task: apply shift to sequence [d c c a]", "target": "Reason: Apply shift -> e d d b. Final: e d d b"}
+{"id": "sym-train-132", "input": "Rule task: apply shift to sequence [d b d d c]", "target": "Reason: Apply shift -> e c e e d. Final: e c e e d"}
+{"id": "sym-train-133", "input": "Rule task: apply shift to sequence [d a c d b]", "target": "Reason: Apply shift -> e b d e c. Final: e b d e c"}
+{"id": "sym-train-134", "input": "Rule task: apply sort to sequence [a d d d d]", "target": "Reason: Apply sort -> a d d d d. Final: a d d d d"}
+{"id": "sym-train-135", "input": "Rule task: apply shift to sequence [c c c a a]", "target": "Reason: Apply shift -> d d d b b. Final: d d d b b"}
+{"id": "sym-train-136", "input": "Rule task: apply shift to sequence [c a a d c b]", "target": "Reason: Apply shift -> d b b e d c. Final: d b b e d c"}
+{"id": "sym-train-137", "input": "Rule task: apply sort to sequence [b b b a a]", "target": "Reason: Apply sort -> a a b b b. Final: a a b b b"}
+{"id": "sym-train-138", "input": "Rule task: apply reverse to sequence [c c c c b b]", "target": "Reason: Apply reverse -> b b c c c c. Final: b b c c c c"}
+{"id": "sym-train-139", "input": "Rule task: apply sort to sequence [d c b a d d]", "target": "Reason: Apply sort -> a b c d d d. Final: a b c d d d"}
+{"id": "sym-train-140", "input": "Rule task: apply shift to sequence [b d a a c d]", "target": "Reason: Apply shift -> c e b b d e. Final: c e b b d e"}
+{"id": "sym-train-141", "input": "Rule task: apply sort to sequence [c a a d b a]", "target": "Reason: Apply sort -> a a a b c d. Final: a a a b c d"}
+{"id": "sym-train-142", "input": "Rule task: apply reverse to sequence [c c b a a]", "target": "Reason: Apply reverse -> a a b c c. Final: a a b c c"}
+{"id": "sym-train-143", "input": "Rule task: apply reverse to sequence [c a a d c b]", "target": "Reason: Apply reverse -> b c d a a c. Final: b c d a a c"}
+{"id": "sym-train-144", "input": "Rule task: apply sort to sequence [b d d d a a]", "target": "Reason: Apply sort -> a a b d d d. Final: a a b d d d"}
+{"id": "sym-train-145", "input": "Rule task: apply reverse to sequence [d a c b c]", "target": "Reason: Apply reverse -> c b c a d. Final: c b c a d"}
+{"id": "sym-train-146", "input": "Rule task: apply sort to sequence [a c c c d]", "target": "Reason: Apply sort -> a c c c d. Final: a c c c d"}
+{"id": "sym-train-147", "input": "Rule task: apply reverse to sequence [d c a c a]", "target": "Reason: Apply reverse -> a c a c d. Final: a c a c d"}
+{"id": "sym-train-148", "input": "Rule task: apply sort to sequence [d c b c d]", "target": "Reason: Apply sort -> b c c d d. Final: b c c d d"}
+{"id": "sym-train-149", "input": "Rule task: apply reverse to sequence [d d d b a]", "target": "Reason: Apply reverse -> a b d d d. Final: a b d d d"}
+{"id": "sym-train-150", "input": "Rule task: apply shift to sequence [a c a b a]", "target": "Reason: Apply shift -> b d b c b. Final: b d b c b"}
+{"id": "sym-train-151", "input": "Rule task: apply reverse to sequence [b a d a]", "target": "Reason: Apply reverse -> a d a b. Final: a d a b"}
+{"id": "sym-train-152", "input": "Rule task: apply shift to sequence [c b b a]", "target": "Reason: Apply shift -> d c c b. Final: d c c b"}
+{"id": "sym-train-153", "input": "Rule task: apply sort to sequence [d c a d a]", "target": "Reason: Apply sort -> a a c d d. Final: a a c d d"}
+{"id": "sym-train-154", "input": "Rule task: apply sort to sequence [b d c b a c]", "target": "Reason: Apply sort -> a b b c c d. Final: a b b c c d"}
+{"id": "sym-train-155", "input": "Rule task: apply sort to sequence [c c d c d b]", "target": "Reason: Apply sort -> b c c c d d. Final: b c c c d d"}
+{"id": "sym-train-156", "input": "Rule task: apply reverse to sequence [d c a a a]", "target": "Reason: Apply reverse -> a a a c d. Final: a a a c d"}
+{"id": "sym-train-157", "input": "Rule task: apply reverse to sequence [a c d c a a]", "target": "Reason: Apply reverse -> a a c d c a. Final: a a c d c a"}
+{"id": "sym-train-158", "input": "Rule task: apply sort to sequence [d b d a c b]", "target": "Reason: Apply sort -> a b b c d d. Final: a b b c d d"}
+{"id": "sym-train-159", "input": "Rule task: apply shift to sequence [a b c b b]", "target": "Reason: Apply shift -> b c d c c. Final: b c d c c"}
+{"id": "sym-train-160", "input": "Rule task: apply reverse to sequence [d d d d a]", "target": "Reason: Apply reverse -> a d d d d. Final: a d d d d"}
+{"id": "sym-train-161", "input": "Rule task: apply shift to sequence [a a b b b]", "target": "Reason: Apply shift -> b b c c c. Final: b b c c c"}
+{"id": "sym-train-162", "input": "Rule task: apply reverse to sequence [d b b b b d]", "target": "Reason: Apply reverse -> d b b b b d. Final: d b b b b d"}
+{"id": "sym-train-163", "input": "Rule task: apply shift to sequence [b c a b a c]", "target": "Reason: Apply shift -> c d b c b d. Final: c d b c b d"}
+{"id": "sym-train-164", "input": "Rule task: apply reverse to sequence [b c b d b]", "target": "Reason: Apply reverse -> b d b c b. Final: b d b c b"}
+{"id": "sym-train-165", "input": "Rule task: apply shift to sequence [a c d c b d]", "target": "Reason: Apply shift -> b d e d c e. Final: b d e d c e"}
+{"id": "sym-train-166", "input": "Rule task: apply shift to sequence [d c a a]", "target": "Reason: Apply shift -> e d b b. Final: e d b b"}
+{"id": "sym-train-167", "input": "Rule task: apply sort to sequence [a c a c b b]", "target": "Reason: Apply sort -> a a b b c c. Final: a a b b c c"}
+{"id": "sym-train-168", "input": "Rule task: apply shift to sequence [a b b b]", "target": "Reason: Apply shift -> b c c c. Final: b c c c"}
+{"id": "sym-train-169", "input": "Rule task: apply reverse to sequence [c d b d c d]", "target": "Reason: Apply reverse -> d c d b d c. Final: d c d b d c"}
+{"id": "sym-train-170", "input": "Rule task: apply reverse to sequence [c a a c]", "target": "Reason: Apply reverse -> c a a c. Final: c a a c"}
+{"id": "sym-train-171", "input": "Rule task: apply reverse to sequence [a d d c]", "target": "Reason: Apply reverse -> c d d a. Final: c d d a"}
+{"id": "sym-train-172", "input": "Rule task: apply reverse to sequence [d c d b]", "target": "Reason: Apply reverse -> b d c d. Final: b d c d"}
+{"id": "sym-train-173", "input": "Rule task: apply shift to sequence [b b b d d c]", "target": "Reason: Apply shift -> c c c e e d. Final: c c c e e d"}
+{"id": "sym-train-174", "input": "Rule task: apply reverse to sequence [d d a d a d]", "target": "Reason: Apply reverse -> d a d a d d. Final: d a d a d d"}
+{"id": "sym-train-175", "input": "Rule task: apply sort to sequence [a b b b]", "target": "Reason: Apply sort -> a b b b. Final: a b b b"}
+{"id": "sym-train-176", "input": "Rule task: apply sort to sequence [a d a b d]", "target": "Reason: Apply sort -> a a b d d. Final: a a b d d"}
+{"id": "sym-train-177", "input": "Rule task: apply reverse to sequence [c a c b]", "target": "Reason: Apply reverse -> b c a c. Final: b c a c"}
+{"id": "sym-train-178", "input": "Rule task: apply sort to sequence [b a d c d]", "target": "Reason: Apply sort -> a b c d d. Final: a b c d d"}
+{"id": "sym-train-179", "input": "Rule task: apply reverse to sequence [c b d c d c]", "target": "Reason: Apply reverse -> c d c d b c. Final: c d c d b c"}
+{"id": "sym-train-180", "input": "Rule task: apply reverse to sequence [b c b d b]", "target": "Reason: Apply reverse -> b d b c b. Final: b d b c b"}
+{"id": "sym-train-181", "input": "Rule task: apply reverse to sequence [b b c c c c]", "target": "Reason: Apply reverse -> c c c c b b. Final: c c c c b b"}
+{"id": "sym-train-182", "input": "Rule task: apply shift to sequence [b d d b a b]", "target": "Reason: Apply shift -> c e e c b c. Final: c e e c b c"}
+{"id": "sym-train-183", "input": "Rule task: apply shift to sequence [d d c c a]", "target": "Reason: Apply shift -> e e d d b. Final: e e d d b"}
+{"id": "sym-train-184", "input": "Rule task: apply reverse to sequence [b c c c]", "target": "Reason: Apply reverse -> c c c b. Final: c c c b"}
+{"id": "sym-train-185", "input": "Rule task: apply reverse to sequence [d b b c]", "target": "Reason: Apply reverse -> c b b d. Final: c b b d"}
+{"id": "sym-train-186", "input": "Rule task: apply sort to sequence [b d a a a d]", "target": "Reason: Apply sort -> a a a b d d. Final: a a a b d d"}
+{"id": "sym-train-187", "input": "Rule task: apply shift to sequence [c b c d a d]", "target": "Reason: Apply shift -> d c d e b e. Final: d c d e b e"}
+{"id": "sym-train-188", "input": "Rule task: apply shift to sequence [b d d d b c]", "target": "Reason: Apply shift -> c e e e c d. Final: c e e e c d"}
+{"id": "sym-train-189", "input": "Rule task: apply reverse to sequence [c b c d]", "target": "Reason: Apply reverse -> d c b c. Final: d c b c"}
+{"id": "sym-train-190", "input": "Rule task: apply shift to sequence [b c b a a b]", "target": "Reason: Apply shift -> c d c b b c. Final: c d c b b c"}
+{"id": "sym-train-191", "input": "Rule task: apply reverse to sequence [c c a d]", "target": "Reason: Apply reverse -> d a c c. Final: d a c c"}
+{"id": "sym-train-192", "input": "Rule task: apply reverse to sequence [b d d b c]", "target": "Reason: Apply reverse -> c b d d b. Final: c b d d b"}
+{"id": "sym-train-193", "input": "Rule task: apply reverse to sequence [a a c a]", "target": "Reason: Apply reverse -> a c a a. Final: a c a a"}
+{"id": "sym-train-194", "input": "Rule task: apply reverse to sequence [c a c a]", "target": "Reason: Apply reverse -> a c a c. Final: a c a c"}
+{"id": "sym-train-195", "input": "Rule task: apply sort to sequence [b d b d]", "target": "Reason: Apply sort -> b b d d. Final: b b d d"}
+{"id": "sym-train-196", "input": "Rule task: apply reverse to sequence [d a a b]", "target": "Reason: Apply reverse -> b a a d. Final: b a a d"}
+{"id": "sym-train-197", "input": "Rule task: apply sort to sequence [b a d a]", "target": "Reason: Apply sort -> a a b d. Final: a a b d"}
+{"id": "sym-train-198", "input": "Rule task: apply sort to sequence [b d d d a]", "target": "Reason: Apply sort -> a b d d d. Final: a b d d d"}
+{"id": "sym-train-199", "input": "Rule task: apply shift to sequence [b a d c c]", "target": "Reason: Apply shift -> c b e d d. Final: c b e d d"}
+{"id": "sym-train-200", "input": "Rule task: apply shift to sequence [b d c d b]", "target": "Reason: Apply shift -> c e d e c. Final: c e d e c"}
+{"id": "sym-train-201", "input": "Rule task: apply shift to sequence [a c b a c a]", "target": "Reason: Apply shift -> b d c b d b. Final: b d c b d b"}
+{"id": "sym-train-202", "input": "Rule task: apply sort to sequence [a c a d a c]", "target": "Reason: Apply sort -> a a a c c d. Final: a a a c c d"}
+{"id": "sym-train-203", "input": "Rule task: apply shift to sequence [d c c d c]", "target": "Reason: Apply shift -> e d d e d. Final: e d d e d"}
+{"id": "sym-train-204", "input": "Rule task: apply shift to sequence [d b c a a]", "target": "Reason: Apply shift -> e c d b b. Final: e c d b b"}
+{"id": "sym-train-205", "input": "Rule task: apply reverse to sequence [d d d c]", "target": "Reason: Apply reverse -> c d d d. Final: c d d d"}
+{"id": "sym-train-206", "input": "Rule task: apply sort to sequence [a c a a a c]", "target": "Reason: Apply sort -> a a a a c c. Final: a a a a c c"}
+{"id": "sym-train-207", "input": "Rule task: apply shift to sequence [c c b a d]", "target": "Reason: Apply shift -> d d c b e. Final: d d c b e"}
+{"id": "sym-train-208", "input": "Rule task: apply sort to sequence [b b d d]", "target": "Reason: Apply sort -> b b d d. Final: b b d d"}
+{"id": "sym-train-209", "input": "Rule task: apply reverse to sequence [a c b a b]", "target": "Reason: Apply reverse -> b a b c a. Final: b a b c a"}
+{"id": "sym-train-210", "input": "Rule task: apply reverse to sequence [d a c d]", "target": "Reason: Apply reverse -> d c a d. Final: d c a d"}
+{"id": "sym-train-211", "input": "Rule task: apply reverse to sequence [c a a b]", "target": "Reason: Apply reverse -> b a a c. Final: b a a c"}
+{"id": "sym-train-212", "input": "Rule task: apply sort to sequence [b d d d b d]", "target": "Reason: Apply sort -> b b d d d d. Final: b b d d d d"}
+{"id": "sym-train-213", "input": "Rule task: apply shift to sequence [b a a d d]", "target": "Reason: Apply shift -> c b b e e. Final: c b b e e"}
+{"id": "sym-train-214", "input": "Rule task: apply reverse to sequence [b d d d a b]", "target": "Reason: Apply reverse -> b a d d d b. Final: b a d d d b"}
+{"id": "sym-train-215", "input": "Rule task: apply sort to sequence [d b d a]", "target": "Reason: Apply sort -> a b d d. Final: a b d d"}
+{"id": "sym-train-216", "input": "Rule task: apply shift to sequence [b b a c a]", "target": "Reason: Apply shift -> c c b d b. Final: c c b d b"}
+{"id": "sym-train-217", "input": "Rule task: apply reverse to sequence [d c a a b b]", "target": "Reason: Apply reverse -> b b a a c d. Final: b b a a c d"}
+{"id": "sym-train-218", "input": "Rule task: apply shift to sequence [b b c a a]", "target": "Reason: Apply shift -> c c d b b. Final: c c d b b"}
+{"id": "sym-train-219", "input": "Rule task: apply reverse to sequence [a c b c]", "target": "Reason: Apply reverse -> c b c a. Final: c b c a"}
+{"id": "sym-train-220", "input": "Rule task: apply sort to sequence [a c b b]", "target": "Reason: Apply sort -> a b b c. Final: a b b c"}
+{"id": "sym-train-221", "input": "Rule task: apply reverse to sequence [a d d b b a]", "target": "Reason: Apply reverse -> a b b d d a. Final: a b b d d a"}
+{"id": "sym-train-222", "input": "Rule task: apply shift to sequence [b d b b c c]", "target": "Reason: Apply shift -> c e c c d d. Final: c e c c d d"}
+{"id": "sym-train-223", "input": "Rule task: apply shift to sequence [a a a c b c]", "target": "Reason: Apply shift -> b b b d c d. Final: b b b d c d"}
+{"id": "sym-train-224", "input": "Rule task: apply shift to sequence [c b c b b]", "target": "Reason: Apply shift -> d c d c c. Final: d c d c c"}
+{"id": "sym-train-225", "input": "Rule task: apply reverse to sequence [d b d c]", "target": "Reason: Apply reverse -> c d b d. Final: c d b d"}
+{"id": "sym-train-226", "input": "Rule task: apply reverse to sequence [a d c c c b]", "target": "Reason: Apply reverse -> b c c c d a. Final: b c c c d a"}
+{"id": "sym-train-227", "input": "Rule task: apply reverse to sequence [a b c c]", "target": "Reason: Apply reverse -> c c b a. Final: c c b a"}
+{"id": "sym-train-228", "input": "Rule task: apply shift to sequence [d c c d]", "target": "Reason: Apply shift -> e d d e. Final: e d d e"}
+{"id": "sym-train-229", "input": "Rule task: apply shift to sequence [a c d a]", "target": "Reason: Apply shift -> b d e b. Final: b d e b"}
+{"id": "sym-train-230", "input": "Rule task: apply shift to sequence [b b c b]", "target": "Reason: Apply shift -> c c d c. Final: c c d c"}
+{"id": "sym-train-231", "input": "Rule task: apply reverse to sequence [d b c a a d]", "target": "Reason: Apply reverse -> d a a c b d. Final: d a a c b d"}
+{"id": "sym-train-232", "input": "Rule task: apply sort to sequence [d d a d b]", "target": "Reason: Apply sort -> a b d d d. Final: a b d d d"}
+{"id": "sym-train-233", "input": "Rule task: apply reverse to sequence [c a d a b d]", "target": "Reason: Apply reverse -> d b a d a c. Final: d b a d a c"}
+{"id": "sym-train-234", "input": "Rule task: apply shift to sequence [c d a c c]", "target": "Reason: Apply shift -> d e b d d. Final: d e b d d"}
+{"id": "sym-train-235", "input": "Rule task: apply shift to sequence [c d c a]", "target": "Reason: Apply shift -> d e d b. Final: d e d b"}
+{"id": "sym-train-236", "input": "Rule task: apply reverse to sequence [c b d d a]", "target": "Reason: Apply reverse -> a d d b c. Final: a d d b c"}
+{"id": "sym-train-237", "input": "Rule task: apply shift to sequence [d d a a a a]", "target": "Reason: Apply shift -> e e b b b b. Final: e e b b b b"}
+{"id": "sym-train-238", "input": "Rule task: apply reverse to sequence [a c b b d]", "target": "Reason: Apply reverse -> d b b c a. Final: d b b c a"}
+{"id": "sym-train-239", "input": "Rule task: apply sort to sequence [a d d d d]", "target": "Reason: Apply sort -> a d d d d. Final: a d d d d"}
+{"id": "sym-train-240", "input": "Rule task: apply reverse to sequence [c d b c]", "target": "Reason: Apply reverse -> c b d c. Final: c b d c"}
+{"id": "sym-train-241", "input": "Rule task: apply shift to sequence [c c d b d a]", "target": "Reason: Apply shift -> d d e c e b. Final: d d e c e b"}
+{"id": "sym-train-242", "input": "Rule task: apply shift to sequence [a b a c a]", "target": "Reason: Apply shift -> b c b d b. Final: b c b d b"}
+{"id": "sym-train-243", "input": "Rule task: apply sort to sequence [a a b c b]", "target": "Reason: Apply sort -> a a b b c. Final: a a b b c"}
+{"id": "sym-train-244", "input": "Rule task: apply reverse to sequence [a b b a b b]", "target": "Reason: Apply reverse -> b b a b b a. Final: b b a b b a"}
+{"id": "sym-train-245", "input": "Rule task: apply sort to sequence [b d b c a]", "target": "Reason: Apply sort -> a b b c d. Final: a b b c d"}
+{"id": "sym-train-246", "input": "Rule task: apply reverse to sequence [d b c c]", "target": "Reason: Apply reverse -> c c b d. Final: c c b d"}
+{"id": "sym-train-247", "input": "Rule task: apply reverse to sequence [c d a a]", "target": "Reason: Apply reverse -> a a d c. Final: a a d c"}
+{"id": "sym-train-248", "input": "Rule task: apply sort to sequence [b c d d]", "target": "Reason: Apply sort -> b c d d. Final: b c d d"}
+{"id": "sym-train-249", "input": "Rule task: apply shift to sequence [d d c c]", "target": "Reason: Apply shift -> e e d d. Final: e e d d"}
+{"id": "sym-train-250", "input": "Rule task: apply reverse to sequence [a b c a c]", "target": "Reason: Apply reverse -> c a c b a. Final: c a c b a"}
+{"id": "sym-train-251", "input": "Rule task: apply shift to sequence [a c a c c]", "target": "Reason: Apply shift -> b d b d d. Final: b d b d d"}
+{"id": "sym-train-252", "input": "Rule task: apply reverse to sequence [c a d b b c]", "target": "Reason: Apply reverse -> c b b d a c. Final: c b b d a c"}
+{"id": "sym-train-253", "input": "Rule task: apply reverse to sequence [a c b a c]", "target": "Reason: Apply reverse -> c a b c a. Final: c a b c a"}
+{"id": "sym-train-254", "input": "Rule task: apply reverse to sequence [b a c a d a]", "target": "Reason: Apply reverse -> a d a c a b. Final: a d a c a b"}
+{"id": "sym-train-255", "input": "Rule task: apply shift to sequence [c d b a a]", "target": "Reason: Apply shift -> d e c b b. Final: d e c b b"}

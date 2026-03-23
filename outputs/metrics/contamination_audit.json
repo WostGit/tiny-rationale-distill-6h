@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "eval_examples": 128,
+      "eval_ngram_count": 216,
+      "exact_input_overlap_count": 0,
+      "exact_input_overlap_samples": [],
+      "ngram_n": 3,
+      "protocol_note": "Train and eval are generated from separate ranges/distributions and stored in separate files. This audit measures exact prompt overlap and simple 3-gram overlap as a lightweight leakage check.",
+      "shared_ngram_count": 0,
+      "shared_ngram_ratio": 0.0,
+      "task": "arithmetic",
+      "train_examples": 256
+    },
+    {
+      "eval_examples": 128,
+      "eval_ngram_count": 204,
+      "exact_input_overlap_count": 0,
+      "exact_input_overlap_samples": [],
+      "ngram_n": 3,
+      "protocol_note": "Train and eval are generated from separate ranges/distributions and stored in separate files. This audit measures exact prompt overlap and simple 3-gram overlap as a lightweight leakage check.",
+      "shared_ngram_count": 37,
+      "shared_ngram_ratio": 0.18137254901960784,
+      "task": "symbolic",
+      "train_examples": 256
+    }
+  ]
+}
